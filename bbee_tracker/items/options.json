@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Extreme 80 Clears Needed",
+        "type": "consumable",
+        "img": "images/options/temp.png",
+        "codes": "extreme_80_clears_needed",
+        "initial_quantity": 5,
+        "min_quantity": 3,
+        "max_quantity": 16,
+        "increment": 1,
+        "overlay_font_size": "16",
+        "allow_disabled": false
+    }
+]

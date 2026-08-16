@@ -1,0 +1,25 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "content": {
+    	"type": "dock",
+    	"content": [
+		{
+			"type": "group",
+			"header": "Prototypes",
+			"dock": "bottom",
+			"v_alignment": "bottom",
+			"content": {
+				"type": "layout",
+				"key": "tracker_items"
+			}
+		},
+        {
+			"type": "layout",
+			"dock": "left",
+			"key": "tracker_map"
+        }
+      ]
+    }
+  }
+}

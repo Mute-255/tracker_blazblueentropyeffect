@@ -1,0 +1,33 @@
+{
+    "tracker_map": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Main Map",
+                "content": {
+                    "type": "canvas",
+                    "width": 500,
+                    "height": 500,
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": ["main_map"],
+                            "width": 500,
+                            "height": 500,
+                            "canvas_top": 0,
+                            "canvas_left": 0
+                        }
+                        // ,{
+                        //     "type": "item",
+                        //     "item": "hibiki",
+                        //     "width": 40,
+                        //     "height": 40,
+                        //     "canvas_top": 50,
+                        //     "canvas_left": 50
+                        // }
+                    ]
+                }
+            }
+        ]
+    }
+}

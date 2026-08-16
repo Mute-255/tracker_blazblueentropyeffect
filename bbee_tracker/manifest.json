@@ -1,0 +1,16 @@
+{
+    "name": "BlazBlue Entropy Effect Manual Tracker",
+    "game_name": "Manual_BlazBlueEntropyEffect_Mute",
+    "package_version": "0.1.0",
+    "package_uid": "Manual_BlazBlueEntropyEffect_Mute",
+    "variants": {
+        "tracker": {
+            "display_name": "Main Tracker",
+            "flags": [
+                "ap",
+                "apmanual"
+            ]
+        }
+    },
+    "author": "Mute"
+}

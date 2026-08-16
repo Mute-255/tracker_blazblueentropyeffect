@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Goal",
+        "children": [
+            {
+                "name": "Goal",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Required Dives Complete (Goal Completed)",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$checkGoal"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 250,
+                        "y": 450
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "name": "<p_upper>",
+        "children": [
+            {
+                "name": "<p_upper> Stage 1",
+                "access_rules": ["<p_lower>"],
+                "sections": [
+                    {
+                        "name": "Stage Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Watcher Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Sweeper Defeated",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x0>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Stage 2",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
+                "sections": [
+                    {
+                        "name": "Stage Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Serpent of Destruction Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Tree of Origin Defeated",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x1>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Stage 3",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
+                "sections": [
+                    {
+                        "name": "Stage Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Arakune Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Defiling Eye Defeated",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x2>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Stage 4",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
+                "sections": [
+                     {
+                        "name": "Stage Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Oread Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: NAN-FIRE BITE Defeated",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x3>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Stage 5",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
+                "sections": [
+                    {
+                        "name": "Stage Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: Floating Mind Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elite Enemy: NAN-01 Defeated",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x4>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Advanced Dive Clears",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
+                "sections": [
+                    {
+                        "name": "Final Elite Enemy: Susanoo Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Entropy 0 Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Entropy 20 Clear",
+                        "item_count": 1,
+                        "access_rules": ["advanced_entropy_20"]
+                    },
+                    {
+                        "name": "Entropy 40 Clear",
+                        "item_count": 1,
+                        "access_rules": ["advanced_entropy_40"]
+                    },
+                    {
+                        "name": "Entropy 60 Clear",
+                        "item_count": 1,
+                        "access_rules": ["advanced_entropy_60"]
+                    },
+                    {
+                        "name": "Entropy 80 Clear",
+                        "item_count": 1,
+                        "access_rules": ["advanced_entropy_80"]
+                    },
+                    {
+                        "name": "Entropy 100 Clear",
+                        "item_count": 1,
+                        "access_rules": ["advanced_entropy_100"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x5>,
+                        "y": <y>
+                    }
+                ]
+            },
+            {
+                "name": "<p_upper> Extreme Dive Clears",
+                "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>)"],
+                "sections": [
+                    {
+                        "name": "Final Elite Enemy: Reki Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Entropy 0 Clear",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Entropy 20 Clear",
+                        "item_count": 1,
+                        "access_rules": ["extreme_entropy_20"]
+                    },
+                    {
+                        "name": "Entropy 40 Clear",
+                        "item_count": 1,
+                        "access_rules": ["extreme_entropy_40"]
+                    },
+                    {
+                        "name": "Entropy 60 Clear",
+                        "item_count": 1,
+                        "access_rules": ["extreme_entropy_60"]
+                    },
+                    {
+                        "name": "Entropy 80 Clear",
+                        "item_count": 1,
+                        "access_rules": ["extreme_entropy_80"]
+                    },
+                    {
+                        "name": "Entropy 100 Clear",
+                        "item_count": 1,
+                        "access_rules": ["extreme_entropy_100"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": <x6>,
+                        "y": <y>
+                    }
+                ]
+            }
+        ]
+    }
+]

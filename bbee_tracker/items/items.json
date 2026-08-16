@@ -1,0 +1,610 @@
+[
+    {
+        "name": "Hibiki",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hibiki.png",
+        "codes": "hibiki"
+    },
+    {
+        "name": "Ragna",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/ragna.png",
+        "codes": "ragna"
+    },
+    {
+        "name": "Noel",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/noel.png",
+        "codes": "noel"
+    },
+    {
+        "name": "\u039b -No.11-",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/lambda_-no.11-.png",
+        "codes": "lambda_-no.11-"
+    },
+    {
+        "name": "Es",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/es.png",
+        "codes": "es"
+    },
+    {
+        "name": "Rachel",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/rachel.png",
+        "codes": "rachel"
+    },
+    {
+        "name": "Taokaka",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/taokaka.png",
+        "codes": "taokaka"
+    },
+    {
+        "name": "Jin",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/jin.png",
+        "codes": "jin"
+    },
+    {
+        "name": "Kokonoe",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/kokonoe.png",
+        "codes": "kokonoe"
+    },
+    {
+        "name": "Hakumen",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hakumen.png",
+        "codes": "hakumen"
+    },
+    {
+        "name": "Mai",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/mai.png",
+        "codes": "mai"
+    },
+    {
+        "name": "Hazama",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/hazama.png",
+        "codes": "hazama"
+    },
+    {
+        "name": "ICEY",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/icey.png",
+        "codes": "icey"
+    },
+    {
+        "name": "Bullet",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/bullet.png",
+        "codes": "bullet"
+    },
+    {
+        "name": "The Prisoner",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/the_prisoner.png",
+        "codes": "the_prisoner"
+    },
+    {
+        "name": "Naoto",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/naoto.png",
+        "codes": "naoto"
+    },
+    {
+        "name": "Progressive Advanced Entropy Limit",
+        "type": "progressive",
+        "codes": "progressive_advanced_entropy_limit",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/adv_0.png", "codes": "advanced_entropy_0", "name": "Advanced 0 Entropy" },
+            { "img": "images/items/adv_20.png", "codes": "advanced_entropy_20", "name": "Advanced 20 Entropy" },
+            { "img": "images/items/adv_40.png", "codes": "advanced_entropy_40", "name": "Advanced 40 Entropy" },
+            { "img": "images/items/adv_60.png", "codes": "advanced_entropy_60", "name": "Advanced 60 Entropy" },
+            { "img": "images/items/adv_80.png", "codes": "advanced_entropy_80", "name": "Advanced 80 Entropy" },
+            { "img": "images/items/adv_100.png", "codes": "advanced_entropy_100", "name": "Advanced 100 Entropy" }
+        ]
+    },
+    {
+        "name": "Progressive Extreme Entropy Limit",
+        "type": "progressive",
+        "codes": "progressive_extreme_entropy_limit",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/ext_0.png", "codes": "extreme_entropy_0", "name": "Extreme 0 Entropy" },
+            { "img": "images/items/ext_20.png", "codes": "extreme_entropy_20", "name": "Extreme 20 Entropy" },
+            { "img": "images/items/ext_40.png", "codes": "extreme_entropy_40", "name": "Extreme 40 Entropy" },
+            { "img": "images/items/ext_60.png", "codes": "extreme_entropy_60", "name": "Extreme 60 Entropy" },
+            { "img": "images/items/ext_80.png", "codes": "extreme_entropy_80", "name": "Extreme 80 Entropy" },
+            { "img": "images/items/ext_100.png", "codes": "extreme_entropy_100", "name": "Extreme 100 Entropy" }
+        ]
+    },
+    {
+        "name": "Progressive Advanced Stage (Hibiki)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(hibiki)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "hibiki_stage_1", "name": "Hibiki Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "hibiki_stage_2", "name": "Hibiki Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "hibiki_stage_3", "name": "Hibiki Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "hibiki_stage_4", "name": "Hibiki Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "hibiki_stage_5", "name": "Hibiki Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Hibiki)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/adv_80_clear.png",
+        "codes": "advanced_80_entropy_clear_(hibiki)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Hibiki)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(hibiki).png",
+        "codes": "extreme_80_entropy_clear_(hibiki), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Ragna)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(ragna)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "ragna_stage_1", "name": "Ragna Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "ragna_stage_2", "name": "Ragna Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "ragna_stage_3", "name": "Ragna Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "ragna_stage_4", "name": "Ragna Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "ragna_stage_5", "name": "Ragna Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Ragna)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(ragna).png",
+        "codes": "advanced_80_entropy_clear_(ragna)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Ragna)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(ragna).png",
+        "codes": "extreme_80_entropy_clear_(ragna), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Noel)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(noel)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "noel_stage_1", "name": "Noel Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "noel_stage_2", "name": "Noel Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "noel_stage_3", "name": "Noel Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "noel_stage_4", "name": "Noel Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "noel_stage_5", "name": "Noel Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Noel)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(noel).png",
+        "codes": "advanced_80_entropy_clear_(noel)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Noel)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(noel).png",
+        "codes": "extreme_80_entropy_clear_(noel), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Λ -No.11-)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(lambda_-no.11-)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "lambda_-no.11-_stage_1", "name": "Λ -No.11- Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "lambda_-no.11-_stage_2", "name": "Λ -No.11- Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "lambda_-no.11-_stage_3", "name": "Λ -No.11- Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "lambda_-no.11-_stage_4", "name": "Λ -No.11- Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "lambda_-no.11-_stage_5", "name": "Λ -No.11- Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (\u039b -No.11-)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(lambda_-no.11-).png",
+        "codes": "advanced_80_entropy_clear_(lambda_-no.11-)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (\u039b -No.11-)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(lambda_-no.11-).png",
+        "codes": "extreme_80_entropy_clear_(lambda_-no.11-), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Es)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(es)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "es_stage_1", "name": "Es Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "es_stage_2", "name": "Es Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "es_stage_3", "name": "Es Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "es_stage_4", "name": "Es Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "es_stage_5", "name": "Es Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Es)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(es).png",
+        "codes": "advanced_80_entropy_clear_(es)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Es)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(es).png",
+        "codes": "extreme_80_entropy_clear_(es), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Rachel)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(rachel)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "rachel_stage_1", "name": "Rachel Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "rachel_stage_2", "name": "Rachel Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "rachel_stage_3", "name": "Rachel Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "rachel_stage_4", "name": "Rachel Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "rachel_stage_5", "name": "Rachel Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Rachel)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(rachel).png",
+        "codes": "advanced_80_entropy_clear_(rachel)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Rachel)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(rachel).png",
+        "codes": "extreme_80_entropy_clear_(rachel), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Taokaka)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(taokaka)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "taokaka_stage_1", "name": "Taokaka Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "taokaka_stage_2", "name": "Taokaka Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "taokaka_stage_3", "name": "Taokaka Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "taokaka_stage_4", "name": "Taokaka Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "taokaka_stage_5", "name": "Taokaka Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Taokaka)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(taokaka).png",
+        "codes": "advanced_80_entropy_clear_(taokaka)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Taokaka)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(taokaka).png",
+        "codes": "extreme_80_entropy_clear_(taokaka), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Jin)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(jin)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "jin_stage_1", "name": "Jin Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "jin_stage_2", "name": "Jin Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "jin_stage_3", "name": "Jin Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "jin_stage_4", "name": "Jin Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "jin_stage_5", "name": "Jin Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Jin)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(jin).png",
+        "codes": "advanced_80_entropy_clear_(jin)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Jin)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(jin).png",
+        "codes": "extreme_80_entropy_clear_(jin), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Kokonoe)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(kokonoe)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "kokonoe_stage_1", "name": "Kokonoe Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "kokonoe_stage_2", "name": "Kokonoe Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "kokonoe_stage_3", "name": "Kokonoe Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "kokonoe_stage_4", "name": "Kokonoe Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "kokonoe_stage_5", "name": "Kokonoe Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Kokonoe)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(kokonoe).png",
+        "codes": "advanced_80_entropy_clear_(kokonoe)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Kokonoe)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(kokonoe).png",
+        "codes": "extreme_80_entropy_clear_(kokonoe), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Hakumen)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(hakumen)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "hakumen_stage_1", "name": "Hakumen Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "hakumen_stage_2", "name": "Hakumen Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "hakumen_stage_3", "name": "Hakumen Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "hakumen_stage_4", "name": "Hakumen Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "hakumen_stage_5", "name": "Hakumen Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Hakumen)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(hakumen).png",
+        "codes": "advanced_80_entropy_clear_(hakumen)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Hakumen)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(hakumen).png",
+        "codes": "extreme_80_entropy_clear_(hakumen), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Mai)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(mai)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "mai_stage_1", "name": "Mai Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "mai_stage_2", "name": "Mai Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "mai_stage_3", "name": "Mai Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "mai_stage_4", "name": "Mai Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "mai_stage_5", "name": "Mai Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Mai)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(mai).png",
+        "codes": "advanced_80_entropy_clear_(mai)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Mai)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(mai).png",
+        "codes": "extreme_80_entropy_clear_(mai), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Hazama)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(hazama)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "hazama_stage_1", "name": "Hazama Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "hazama_stage_2", "name": "Hazama Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "hazama_stage_3", "name": "Hazama Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "hazama_stage_4", "name": "Hazama Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "hazama_stage_5", "name": "Hazama Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Hazama)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(hazama).png",
+        "codes": "advanced_80_entropy_clear_(hazama)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Hazama)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(hazama).png",
+        "codes": "extreme_80_entropy_clear_(hazama), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (ICEY)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(icey)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "icey_stage_1", "name": "ICEY Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "icey_stage_2", "name": "ICEY Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "icey_stage_3", "name": "ICEY Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "icey_stage_4", "name": "ICEY Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "icey_stage_5", "name": "ICEY Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (ICEY)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(icey).png",
+        "codes": "advanced_80_entropy_clear_(icey)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (ICEY)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(icey).png",
+        "codes": "extreme_80_entropy_clear_(icey), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Bullet)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(bullet)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "bullet_stage_1", "name": "Bullet Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "bullet_stage_2", "name": "Bullet Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "bullet_stage_3", "name": "Bullet Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "bullet_stage_4", "name": "Bullet Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "bullet_stage_5", "name": "Bullet Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Bullet)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(bullet).png",
+        "codes": "advanced_80_entropy_clear_(bullet)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Bullet)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(bullet).png",
+        "codes": "extreme_80_entropy_clear_(bullet), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (The Prisoner)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(the_prisoner)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "the_prisoner_stage_1", "name": "The Prisoner Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "the_prisoner_stage_2", "name": "The Prisoner Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "the_prisoner_stage_3", "name": "The Prisoner Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "the_prisoner_stage_4", "name": "The Prisoner Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "the_prisoner_stage_5", "name": "The Prisoner Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (The Prisoner)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(the_prisoner).png",
+        "codes": "advanced_80_entropy_clear_(the_prisoner)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (The Prisoner)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(the_prisoner).png",
+        "codes": "extreme_80_entropy_clear_(the_prisoner), ex_clear"
+    },
+    {
+        "name": "Progressive Advanced Stage (Naoto)",
+        "type": "progressive",
+        "codes": "progressive_advanced_stage_(naoto)",
+        "allow_disabled": false,
+        "loop": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            { "img": "images/items/stage_1.png", "codes": "naoto_stage_1", "name": "Naoto Stage 1" },
+            { "img": "images/items/stage_2.png", "codes": "naoto_stage_2", "name": "Naoto Stage 2" },
+            { "img": "images/items/stage_3.png", "codes": "naoto_stage_3", "name": "Naoto Stage 3" },
+            { "img": "images/items/stage_4.png", "codes": "naoto_stage_4", "name": "Naoto Stage 4" },
+            { "img": "images/items/stage_5.png", "codes": "naoto_stage_5", "name": "Naoto Stage 5" }
+        ]
+    },
+    {
+        "name": "Advanced 80 Entropy Clear (Naoto)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/advanced_80_entropy_clear_(naoto).png",
+        "codes": "advanced_80_entropy_clear_(naoto)"
+    },
+    {
+        "name": "Extreme 80 Entropy Clear (Naoto)",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/extreme_80_entropy_clear_(naoto).png",
+        "codes": "extreme_80_entropy_clear_(naoto), ex_clear"
+    }
+]
