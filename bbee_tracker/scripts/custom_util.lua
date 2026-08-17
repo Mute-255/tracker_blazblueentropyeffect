@@ -52,6 +52,7 @@ function updateLocationCount(proto)
 		local proto_obj = Tracker:FindObjectForCode(code)
 		if proto_obj ~= nil then
 			proto_obj:SetOverlay(tostring(count))
+			proto_obj:SetOverlayBackground("#88000000")
 			if count == 0 then
 				proto_obj:SetOverlayColor("#cf1010")
 			else
