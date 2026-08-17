@@ -205,6 +205,7 @@ function onBounce(json)
 end
 
 function onLocationSectionChanged(section)
+    setNextProtoCheckTime()
     local sectionID = section.FullID
 	if (section.AvailableChestCount == 0) then
         if sectionID == "Goal/Goal/Required Dives Complete (Goal Completed)" then
