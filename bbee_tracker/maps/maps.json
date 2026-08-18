@@ -1,8 +1,8 @@
 [
     {
         "name": "main_map",
-        "img": "images/maps/main_map.png",
-        "location_size": 10,
+        "img": "images/maps/backgrounds.png",
+        "location_size": 20,
         "location_border_thickness": 1
     }
 ]

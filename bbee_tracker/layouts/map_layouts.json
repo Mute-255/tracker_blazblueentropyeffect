@@ -6,132 +6,140 @@
                 "title": "Main Map",
                 "content": {
                     "type": "canvas",
-                    "width": 500,
-                    "height": 500,
+                    "width": 832,
+                    "height": 468,
                     "content": [
                         {
                             "type": "map",
-                            "maps": ["main_map"],
-                            "width": 500,
-                            "height": 500,
+                            "maps": [
+                                "main_map"
+                            ],
+                            "width": 832,
+                            "height": 468,
                             "canvas_top": 0,
                             "canvas_left": 0
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "hibiki",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 15,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "ragna",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 15,
                             "canvas_left": 390
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "noel",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 56,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "lambda_-no.11-",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 56,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "es",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 97,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "rachel",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 97,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "taokaka",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 138,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "jin",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 138,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "kokonoe",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 179,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "hakumen",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 179,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "mai",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 220,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "hazama",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 220,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "icey",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 261,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "bullet",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 261,
                             "canvas_left": 390
-                        },{
+                        },
+                        {
                             "type": "item",
                             "item": "the_prisoner",
                             "width": 40,
                             "height": 40,
                             "canvas_top": 302,
                             "canvas_left": 160
-                        }
-                        ,{
+                        },
+                        {
                             "type": "item",
                             "item": "naoto",
                             "width": 40,
@@ -141,6 +149,10 @@
                         }
                     ]
                 }
+            },
+            {
+                "title": "temp",
+                "content": {}
             }
         ]
     }
