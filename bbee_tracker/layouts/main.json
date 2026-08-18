@@ -16,6 +16,7 @@
 				},
 				{
 					"type": "layout",
+					"dock": "left",
 					"key": "tracker_map"
 				}
 			]

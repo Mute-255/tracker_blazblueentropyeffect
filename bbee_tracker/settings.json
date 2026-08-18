@@ -1,4 +1,3 @@
 {
-    "smooth_scaling": true,
-    "allow_deferred_logic_update": true
+    "smooth_scaling": true
 }

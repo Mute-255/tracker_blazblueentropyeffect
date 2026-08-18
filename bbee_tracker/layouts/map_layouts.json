@@ -6,18 +6,16 @@
                 "title": "Main Map",
                 "content": {
                     "type": "canvas",
-                    "width": 832,
-                    "height": 468,
+                    "width": 500,
+                    "height": 500,
                     "content": [
                         {
                             "type": "map",
                             "maps": [
                                 "main_map"
                             ],
-                            "width": 832,
-                            "height": 468,
-                            "canvas_top": 0,
-                            "canvas_left": 0
+                            "width": 500,
+                            "height": 500
                         },
                         {
                             "type": "item",
@@ -25,7 +23,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 15,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -33,7 +31,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 15,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -41,7 +39,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 56,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -49,7 +47,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 56,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -57,7 +55,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 97,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -65,7 +63,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 97,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -73,7 +71,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 138,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -81,7 +79,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 138,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -89,7 +87,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 179,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -97,7 +95,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 179,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -105,7 +103,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 220,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -113,7 +111,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 220,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -121,7 +119,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 261,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -129,7 +127,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 261,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         },
                         {
                             "type": "item",
@@ -137,7 +135,7 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 302,
-                            "canvas_left": 160
+                            "canvas_left": 185
                         },
                         {
                             "type": "item",
@@ -145,14 +143,30 @@
                             "width": 40,
                             "height": 40,
                             "canvas_top": 302,
-                            "canvas_left": 390
+                            "canvas_left": 415
                         }
                     ]
                 }
             },
             {
                 "title": "temp",
-                "content": {}
+                "content": {
+                    "type": "canvas",
+                    "width": 832,
+                    "height": 468,
+                    "content": [
+                        {
+                            "type": "map",
+                            "maps": [
+                                "test_map"
+                            ],
+                            "width": 832,
+                            "height": 468,
+                            "canvas_top": 0,
+                            "canvas_left": 0
+                        }
+                    ]
+                }
             }
         ]
     }
