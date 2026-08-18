@@ -130,8 +130,8 @@
             {
                 "type": "itemgrid",
                 "item_margin": "4, 4",
-                "h_alignment": "left",
-                "item_size": 40,
+                "item_h_alignment": "center",
+                "item_size": "80, 40",
                 "rows": [
                     [
                         "progressive_advanced_entropy_limit",
