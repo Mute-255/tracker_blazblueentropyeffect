@@ -4,6 +4,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/hibiki.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hibiki"
     },
     {
@@ -11,6 +12,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ragna.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "ragna"
     },
     {
@@ -18,6 +20,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/noel.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "noel"
     },
     {
@@ -25,6 +28,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/lambda_-no.11-.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "lambda_-no.11-"
     },
     {
@@ -32,6 +36,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/es.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "es"
     },
     {
@@ -39,6 +44,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/rachel.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "rachel"
     },
     {
@@ -46,6 +52,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/taokaka.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "taokaka"
     },
     {
@@ -53,6 +60,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/jin.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "jin"
     },
     {
@@ -60,6 +68,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/kokonoe.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "kokonoe"
     },
     {
@@ -67,6 +76,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/hakumen.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hakumen"
     },
     {
@@ -74,6 +84,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/mai.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "mai"
     },
     {
@@ -81,6 +92,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/hazama.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hazama"
     },
     {
@@ -88,6 +100,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/icey.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "icey"
     },
     {
@@ -95,6 +108,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/bullet.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "bullet"
     },
     {
@@ -102,6 +116,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/the_prisoner.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "the_prisoner"
     },
     {
@@ -109,6 +124,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/naoto.png",
+        "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "naoto"
     },
     {
