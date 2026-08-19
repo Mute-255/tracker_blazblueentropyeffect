@@ -134,19 +134,35 @@
                 "key": "extreme_clear"
             },
             {
-                "type": "group",
-                "header": "Entropy Limit"
-            },
-            {
-                "type": "itemgrid",
-                "item_margin": "4, 4",
-                "item_h_alignment": "center",
-                "item_size": "80, 40",
-                "rows": [
-                    [
-                        "progressive_advanced_entropy_limit",
-                        "progressive_extreme_entropy_limit"
-                    ]
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Entropy Limit",
+                        "dock": "left",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "4, 4",
+                            "item_h_alignment": "center",
+                            "item_size": "80, 40",
+                            "rows": [
+                                [
+                                    "progressive_advanced_entropy_limit",
+                                    "progressive_extreme_entropy_limit"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Evotype Slots"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Mind Crystal Slots"
+                    }
                 ]
             }
         ]
