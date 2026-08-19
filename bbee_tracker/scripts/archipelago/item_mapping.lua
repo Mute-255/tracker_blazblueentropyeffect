@@ -17,6 +17,7 @@ ITEM_MAPPING = {
     [16] = {"naoto", "toggle"},
     [17] = {"progressive_advanced_entropy_limit", "progressive"},
     [18] = {"progressive_extreme_entropy_limit", "progressive"},
+    [19] = {"evotype_slot", "progressive"},
     [20] = {"progressive_advanced_stage_(hibiki)", "progressive"},
     [21] = {"advanced_80_entropy_clear_(hibiki)", "toggle"},
     [22] = {"extreme_80_entropy_clear_(hibiki)", "toggle"},
@@ -65,4 +66,6 @@ ITEM_MAPPING = {
     [65] = {"progressive_advanced_stage_(naoto)", "progressive"},
     [66] = {"advanced_80_entropy_clear_(naoto)", "toggle"},
     [67] = {"extreme_80_entropy_clear_(naoto)", "toggle"},
+
+    [108] = {"mind_crystal_slot", "progressive"}
 }

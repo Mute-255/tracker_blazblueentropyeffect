@@ -48,7 +48,7 @@ function updateLocationCount(proto)
     end
 	for i, p in ipairs(proto_list) do
 		local code = getProtoCodeName(p)
-		print(code)
+		-- print(code)
 		local count = (proto_check_count[code] or 0)
 		local proto_obj = Tracker:FindObjectForCode(code)
 		if proto_obj ~= nil then

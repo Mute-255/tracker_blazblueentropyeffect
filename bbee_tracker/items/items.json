@@ -135,12 +135,12 @@
         "loop": false,
         "initial_stage_idx": 0,
         "stages": [
-            { "img": "images/items/adv_0.png", "codes": "advanced_entropy_0", "name": "Advanced 0 Entropy" },
-            { "img": "images/items/adv_20.png", "codes": "advanced_entropy_20", "name": "Advanced 20 Entropy" },
-            { "img": "images/items/adv_40.png", "codes": "advanced_entropy_40", "name": "Advanced 40 Entropy" },
-            { "img": "images/items/adv_60.png", "codes": "advanced_entropy_60", "name": "Advanced 60 Entropy" },
-            { "img": "images/items/adv_80.png", "codes": "advanced_entropy_80", "name": "Advanced 80 Entropy" },
-            { "img": "images/items/adv_100.png", "codes": "advanced_entropy_100", "name": "Advanced 100 Entropy" }
+            { "img": "images/items/adv_0.png", "codes": "advanced_entropy_0", "name": "Advanced Entropy Limit: 0/100" },
+            { "img": "images/items/adv_20.png", "codes": "advanced_entropy_20", "name": "Advanced Entropy Limit: 20/100" },
+            { "img": "images/items/adv_40.png", "codes": "advanced_entropy_40", "name": "Advanced Entropy Limit: 40/100" },
+            { "img": "images/items/adv_60.png", "codes": "advanced_entropy_60", "name": "Advanced Entropy Limit: 60/100" },
+            { "img": "images/items/adv_80.png", "codes": "advanced_entropy_80", "name": "Advanced Entropy Limit: 80/100" },
+            { "img": "images/items/adv_100.png", "codes": "advanced_entropy_100", "name": "Advanced Entropy Limit: 100/100" }
         ]
     },
     {
@@ -151,12 +151,24 @@
         "loop": false,
         "initial_stage_idx": 0,
         "stages": [
-            { "img": "images/items/ext_0.png", "codes": "extreme_entropy_0", "name": "Extreme 0 Entropy" },
-            { "img": "images/items/ext_20.png", "codes": "extreme_entropy_20", "name": "Extreme 20 Entropy" },
-            { "img": "images/items/ext_40.png", "codes": "extreme_entropy_40", "name": "Extreme 40 Entropy" },
-            { "img": "images/items/ext_60.png", "codes": "extreme_entropy_60", "name": "Extreme 60 Entropy" },
-            { "img": "images/items/ext_80.png", "codes": "extreme_entropy_80", "name": "Extreme 80 Entropy" },
-            { "img": "images/items/ext_100.png", "codes": "extreme_entropy_100", "name": "Extreme 100 Entropy" }
+            { "img": "images/items/ext_0.png", "codes": "extreme_entropy_0", "name": "Extreme Entropy Limit: 0/100" },
+            { "img": "images/items/ext_20.png", "codes": "extreme_entropy_20", "name": "Extreme Entropy Limit: 20/100" },
+            { "img": "images/items/ext_40.png", "codes": "extreme_entropy_40", "name": "Extreme Entropy Limit: 40/100" },
+            { "img": "images/items/ext_60.png", "codes": "extreme_entropy_60", "name": "Extreme Entropy Limit: 60/100" },
+            { "img": "images/items/ext_80.png", "codes": "extreme_entropy_80", "name": "Extreme Entropy Limit: 80/100" },
+            { "img": "images/items/ext_100.png", "codes": "extreme_entropy_100", "name": "Extreme Entropy Limit: 100/100" }
+        ]
+    },
+    {
+        "name": "Evotype Slots",
+        "type": "progressive",
+        "codes": "evotype_slot",
+        "allow_disabled": false,
+        "loop": false,
+        "stages": [
+            { "img": "images/items/evotype_0.png", "codes": "evotype_slot_0", "name": "Evotype Slots: 0/2" },
+            { "img": "images/items/evotype_1.png", "codes": "evotype_slot_1", "name": "Evotype Slots: 1/2" },
+            { "img": "images/items/evotype_2.png", "codes": "evotype_slot_2", "name": "Evotype Slots: 2/2" }
         ]
     },
     {
@@ -652,5 +664,21 @@
         "img": "images/items/ext_clear.png",
         // "img": "images/items/extreme_80_entropy_clear_(naoto).png",
         "codes": "extreme_80_entropy_clear_(naoto), ex_clear"
+    },
+    {
+        "name": "Mind Crystal Slots",
+        "type": "progressive",
+        "codes": "mind_crystal_slot",
+        "allow_disabled": false,
+        "loop": false,
+        "stages": [
+            { "img": "images/items/mind_crystal_0.png", "codes": "mind_crystal_slot_0", "name": "Mind Crystal Slots: 0/6" },
+            { "img": "images/items/mind_crystal_1.png", "codes": "mind_crystal_slot_1", "name": "Mind Crystal Slots: 1/6" },
+            { "img": "images/items/mind_crystal_2.png", "codes": "mind_crystal_slot_2", "name": "Mind Crystal Slots: 2/6" },
+            { "img": "images/items/mind_crystal_3.png", "codes": "mind_crystal_slot_3", "name": "Mind Crystal Slots: 3/6" },
+            { "img": "images/items/mind_crystal_4.png", "codes": "mind_crystal_slot_4", "name": "Mind Crystal Slots: 4/6" },
+            { "img": "images/items/mind_crystal_5.png", "codes": "mind_crystal_slot_5", "name": "Mind Crystal Slots: 5/6" },
+            { "img": "images/items/mind_crystal_6.png", "codes": "mind_crystal_slot_6", "name": "Mind Crystal Slots: 6/6" }
+        ]
     }
 ]

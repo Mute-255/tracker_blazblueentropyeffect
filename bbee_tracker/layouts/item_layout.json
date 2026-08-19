@@ -157,11 +157,23 @@
                     },
                     {
                         "type": "group",
-                        "header": "Evotype Slots"
+                        "header": "Evotype Slots",
+                        "content": {
+                            "type": "item",
+                            "item_size": "80, 40",
+                            "margin": "10, 7",
+                            "item": "evotype_slot"
+                        }
                     },
                     {
                         "type": "group",
-                        "header": "Mind Crystal Slots"
+                        "header": "Mind Crystal Slots",
+                        "content": {
+                            "type": "item",
+                            "item_size": "300, 36",
+                            "margin": "10, 7",
+                            "item": "mind_crystal_slot"
+                        }
                     }
                 ]
             }
