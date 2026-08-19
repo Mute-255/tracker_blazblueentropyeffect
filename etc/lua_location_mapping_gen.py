@@ -9,30 +9,30 @@ count = 0
 for i, char in enumerate(char_list):
     for j in range(1, 6):
         count += 1
-        location = f"{char}/{char} Stage {j}/Stage Clear"
+        location = f"{char}/{char} Stage {j} Clear/"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j, elite in enumerate(elite_list):
         count += 1
-        location = f"{char}/{char} Stage {((j//2)+1)}/Elite Enemy: {elite} Defeated"
+        location = f"{char}/{char} Elite Enemy: {elite} Defeated/"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     count += 1
-    location = f"{char}/{char} Advanced Dive Clears/Final Elite Enemy: Susanoo Defeated"
+    location = f"{char}/{char} Final Elite Enemy: Susanoo Defeated/"
     lti_data += f"\t [\"{location}\"] = {count},\n"
     itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j in range(0, 101, 20):
         count += 1
-        location = f"{char}/{char} Advanced Dive Clears/Entropy {j} Clear"
+        location = f"{char}/{char} Advanced Entropy {j} Dive Clear/"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j in range(0, 101, 20):
         count += 1
-        location = f"{char}/{char} Extreme Dive Clears/Entropy {j} Clear"
+        location = f"{char}/{char} Extreme Entropy {j} Dive Clear/"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     count += 1
-    location = f"{char}/{char} Extreme Dive Clears/Final Elite Enemy: Reki Defeated"
+    location = f"{char}/{char} Final Elite Enemy: Reki Defeated/"
     lti_data += f"\t [\"{location}\"] = {count},\n"
     itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
 count += 1

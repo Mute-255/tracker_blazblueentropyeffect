@@ -3,22 +3,146 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "temp",
+                "title": "Hibiki",
                 "content": {
-                    "type": "canvas",
-                    "width": 832,
-                    "height": 468,
-                    "content": [
-                        {
-                            "type": "map",
-                            "maps": [
-                                "test_map"
-                            ],
-                            "width": 832,
-                            "height": 468,
-                            "canvas_top": 0,
-                            "canvas_left": 0
-                        }
+                    "type": "map",
+                    "maps": [
+                        "hibiki_map"
+                    ]
+                }
+            },
+            {
+                "title": "Ragna",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ragna_map"
+                    ]
+                }
+            },
+            {
+                "title": "Noel",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "noel_map"
+                    ]
+                }
+            },
+            {
+                "title": "Λ -No.11-",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "lambda_-no.11-_map"
+                    ]
+                }
+            },
+            {
+                "title": "Es",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "es_map"
+                    ]
+                }
+            },
+            {
+                "title": "Rachel",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "rachel_map"
+                    ]
+                }
+            },
+            {
+                "title": "Taokaka",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "taokaka_map"
+                    ]
+                }
+            },
+            {
+                "title": "Jin",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "jin_map"
+                    ]
+                }
+            },
+            {
+                "title": "Kokonoe",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "kokonoe_map"
+                    ]
+                }
+            },
+            {
+                "title": "Hakumen",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "hakumen_map"
+                    ]
+                }
+            },
+            {
+                "title": "Mai",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "mai_map"
+                    ]
+                }
+            },
+            {
+                "title": "Hazama",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "hazama_map"
+                    ]
+                }
+            },
+            {
+                "title": "ICEY",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "icey_map"
+                    ]
+                }
+            },
+            {
+                "title": "Bullet",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "bullet_map"
+                    ]
+                }
+            },
+            {
+                "title": "The Prisoner",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "the_prisoner_map"
+                    ]
+                }
+            },
+            {
+                "title": "Naoto",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "naoto_map"
                     ]
                 }
             },

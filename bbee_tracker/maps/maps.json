@@ -6,8 +6,113 @@
         "location_border_thickness": 1
     },
     {
-        "name": "test_map",
-        "img": "images/maps/backgrounds.jpg",
+        "name": "hibiki_map",
+        "img": "images/maps/bg_hibiki.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "ragna_map",
+        "img": "images/maps/bg_ragna.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "noel_map",
+        "img": "images/maps/bg_noel.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "lambda_-no.11-_map",
+        "img": "images/maps/bg_lambda_no11.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "es_map",
+        "img": "images/maps/bg_es.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "rachel_map",
+        "img": "images/maps/bg_rachel.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "taokaka_map",
+        "img": "images/maps/bg_taokaka.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "jin_map",
+        "img": "images/maps/bg_jin.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "kokonoe_map",
+        "img": "images/maps/bg_kokonoe.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "hakumen_map",
+        "img": "images/maps/bg_hakumen.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "mai_map",
+        "img": "images/maps/bg_mai.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "hazama_map",
+        "img": "images/maps/bg_hazama.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "icey_map",
+        "img": "images/maps/bg_icey.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "bullet_map",
+        "img": "images/maps/bg_bullet.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "the_prisoner_map",
+        "img": "images/maps/bg_the_prisoner.png",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "location_shape": "diamond"
+    },
+    {
+        "name": "naoto_map",
+        "img": "images/maps/bg_naoto.png",
         "location_size": 20,
         "location_border_thickness": 1,
         "location_shape": "diamond"

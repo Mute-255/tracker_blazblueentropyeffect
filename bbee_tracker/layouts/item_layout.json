@@ -123,19 +123,11 @@
                 "margin": 0,
                 "key": "stage"
             },
-            // {
-            //     "type": "group",
-            //     "header": "Advanced 80 Entropy Clears"
-            // },
             {
                 "type": "layout",
                 "dropshadow": false,
                 "key": "advanced_clear"
             },
-            // {
-            //     "type": "group",
-            //     "header": "Extreme 80 Entropy Clears"
-            // },
             {
                 "type": "layout",
                 "dropshadow": false,
@@ -156,7 +148,7 @@
                         "progressive_extreme_entropy_limit"
                     ]
                 ]
-            },
+            }
         ]
     }
 }

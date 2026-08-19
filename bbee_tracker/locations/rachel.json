@@ -7,7 +7,7 @@
                 "access_rules": ["rachel"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 510,
                         "y": 865
                     }
@@ -19,7 +19,7 @@
                 "access_rules": ["rachel"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 400,
                         "y": 990
                     }
@@ -31,7 +31,7 @@
                 "access_rules": ["rachel"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 525,
                         "y": 990
                     }
@@ -43,7 +43,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|2"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 775,
                         "y": 865
                     }
@@ -55,7 +55,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|2"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 665,
                         "y": 990
                     }
@@ -67,7 +67,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|2"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 790,
                         "y": 990
                     }
@@ -79,7 +79,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|3"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1040,
                         "y": 865
                     }
@@ -91,7 +91,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|3"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 930,
                         "y": 990
                     }
@@ -103,7 +103,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|3"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1055,
                         "y": 990
                     }
@@ -115,7 +115,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|4"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1305,
                         "y": 865
                     }
@@ -127,7 +127,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|4"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1195,
                         "y": 990
                     }
@@ -139,7 +139,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|4"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1320,
                         "y": 990
                     }
@@ -151,7 +151,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1570,
                         "y": 865
                     }
@@ -163,7 +163,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1460,
                         "y": 990
                     }
@@ -175,7 +175,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 1585,
                         "y": 990
                     }
@@ -187,7 +187,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 950,
                         "y": 230
                     }
@@ -199,7 +199,7 @@
                 "access_rules": ["rachel, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 180,
                         "y": 190
                     }
@@ -211,7 +211,7 @@
                 "access_rules": ["rachel, advanced_entropy_20, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 280,
                         "y": 190
                     }
@@ -223,7 +223,7 @@
                 "access_rules": ["rachel, advanced_entropy_40, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 380,
                         "y": 190
                     }
@@ -235,7 +235,7 @@
                 "access_rules": ["rachel, advanced_entropy_60, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 480,
                         "y": 190
                     }
@@ -247,7 +247,7 @@
                 "access_rules": ["rachel, advanced_entropy_80, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 580,
                         "y": 190
                     }
@@ -259,7 +259,7 @@
                 "access_rules": ["rachel, advanced_entropy_100, $checkStageAccess|rachel|5"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 680,
                         "y": 190
                     }
@@ -271,7 +271,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel)"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 950,
                         "y": 340
                     }
@@ -283,7 +283,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel)"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 180,
                         "y": 300
                     }
@@ -295,7 +295,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel), extreme_entropy_20"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 280,
                         "y": 300
                     }
@@ -307,7 +307,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel), extreme_entropy_40"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 380,
                         "y": 300
                     }
@@ -319,7 +319,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel), extreme_entropy_60"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 480,
                         "y": 300
                     }
@@ -331,7 +331,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel), extreme_entropy_80"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 580,
                         "y": 300
                     }
@@ -343,7 +343,7 @@
                 "access_rules": ["rachel, advanced_80_entropy_clear_(rachel), extreme_entropy_100"],
                 "map_locations": [
                     {
-                        "map": "test_map",
+                        "map": "rachel_map",
                         "x": 680,
                         "y": 300
                     }
