@@ -3,129 +3,184 @@
         "name": "Noel",
         "children": [
             {
-                "name": "Noel Stage 1",
+                "name": "Noel Stage 1 Clear",
                 "access_rules": ["noel"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Watcher Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Sweeper Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 75,
-                        "y": 80
+                        "map": "test_map",
+                        "x": 510,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Noel Stage 2",
+                "name": "Noel Elite Enemy: Watcher Defeated",
+                "access_rules": ["noel"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 360,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: Sweeper Defeated",
+                "access_rules": ["noel"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 475,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Stage 2 Clear",
                 "access_rules": ["noel, $checkStageAccess|noel|2"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Serpent of Destruction Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Tree of Origin Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 100,
-                        "y": 80
+                        "map": "test_map",
+                        "x": 775,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Noel Stage 3",
+                "name": "Noel Elite Enemy: Serpent of Destruction Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 614,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: Tree of Origin Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 741,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Stage 3 Clear",
                 "access_rules": ["noel, $checkStageAccess|noel|3"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Arakune Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Defiling Eye Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 125,
-                        "y": 80
+                        "map": "test_map",
+                        "x": 1040,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Noel Stage 4",
+                "name": "Noel Elite Enemy: Arakune Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 880,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: Defiling Eye Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1004,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Stage 4 Clear",
                 "access_rules": ["noel, $checkStageAccess|noel|4"],
-                "sections": [
-                     {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Oread Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-FIRE BITE Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 150,
-                        "y": 80
+                        "map": "test_map",
+                        "x": 1305,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Noel Stage 5",
-                "access_rules": ["noel, $checkStageAccess|noel|5"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Floating Mind Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-01 Defeated",
-                        "item_count": 1
-                    }
-                ],
+                "name": "Noel Elite Enemy: Oread Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|4"],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 175,
-                        "y": 80
+                        "map": "test_map",
+                        "x": 1135,
+                        "y": 1020
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: NAN-FIRE BITE Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|4"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1255,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Stage 5 Clear",
+                "access_rules": ["noel, $checkStageAccess|noel|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1570,
+                        "y": 865
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: Floating Mind Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1395,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Noel Elite Enemy: NAN-01 Defeated",
+                "access_rules": ["noel, $checkStageAccess|noel|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1535,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
             },
             {
                 "name": "Noel Advanced Dive Clears",

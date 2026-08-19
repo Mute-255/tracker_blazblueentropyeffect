@@ -3,129 +3,184 @@
         "name": "Bullet",
         "children": [
             {
-                "name": "Bullet Stage 1",
+                "name": "Bullet Stage 1 Clear",
                 "access_rules": ["bullet"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Watcher Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Sweeper Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 300,
-                        "y": 280
+                        "map": "test_map",
+                        "x": 510,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Bullet Stage 2",
+                "name": "Bullet Elite Enemy: Watcher Defeated",
+                "access_rules": ["bullet"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 360,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: Sweeper Defeated",
+                "access_rules": ["bullet"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 475,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Stage 2 Clear",
                 "access_rules": ["bullet, $checkStageAccess|bullet|2"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Serpent of Destruction Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Tree of Origin Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 325,
-                        "y": 280
+                        "map": "test_map",
+                        "x": 775,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Bullet Stage 3",
+                "name": "Bullet Elite Enemy: Serpent of Destruction Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 614,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: Tree of Origin Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 741,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Stage 3 Clear",
                 "access_rules": ["bullet, $checkStageAccess|bullet|3"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Arakune Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Defiling Eye Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 350,
-                        "y": 280
+                        "map": "test_map",
+                        "x": 1040,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Bullet Stage 4",
+                "name": "Bullet Elite Enemy: Arakune Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 880,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: Defiling Eye Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1004,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Stage 4 Clear",
                 "access_rules": ["bullet, $checkStageAccess|bullet|4"],
-                "sections": [
-                     {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Oread Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-FIRE BITE Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 375,
-                        "y": 280
+                        "map": "test_map",
+                        "x": 1305,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Bullet Stage 5",
-                "access_rules": ["bullet, $checkStageAccess|bullet|5"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Floating Mind Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-01 Defeated",
-                        "item_count": 1
-                    }
-                ],
+                "name": "Bullet Elite Enemy: Oread Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|4"],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 400,
-                        "y": 280
+                        "map": "test_map",
+                        "x": 1135,
+                        "y": 1020
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: NAN-FIRE BITE Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|4"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1255,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Stage 5 Clear",
+                "access_rules": ["bullet, $checkStageAccess|bullet|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1570,
+                        "y": 865
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: Floating Mind Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1395,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Bullet Elite Enemy: NAN-01 Defeated",
+                "access_rules": ["bullet, $checkStageAccess|bullet|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1535,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
             },
             {
                 "name": "Bullet Advanced Dive Clears",

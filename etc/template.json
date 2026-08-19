@@ -3,129 +3,184 @@
         "name": "<p_upper>",
         "children": [
             {
-                "name": "<p_upper> Stage 1",
+                "name": "<p_upper> Stage 1 Clear",
                 "access_rules": ["<p_lower>"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Watcher Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Sweeper Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": <x0>,
-                        "y": <y>
+                        "map": "test_map",
+                        "x": 510,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Stage 2",
+                "name": "<p_upper> Elite Enemy: Watcher Defeated",
+                "access_rules": ["<p_lower>"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 360,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: Sweeper Defeated",
+                "access_rules": ["<p_lower>"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 475,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Stage 2 Clear",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Serpent of Destruction Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Tree of Origin Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": <x1>,
-                        "y": <y>
+                        "map": "test_map",
+                        "x": 775,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Stage 3",
+                "name": "<p_upper> Elite Enemy: Serpent of Destruction Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 614,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: Tree of Origin Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 741,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Stage 3 Clear",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Arakune Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Defiling Eye Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": <x2>,
-                        "y": <y>
+                        "map": "test_map",
+                        "x": 1040,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Stage 4",
+                "name": "<p_upper> Elite Enemy: Arakune Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 880,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: Defiling Eye Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1004,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Stage 4 Clear",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
-                "sections": [
-                     {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Oread Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-FIRE BITE Defeated",
-                        "item_count": 1
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": <x3>,
-                        "y": <y>
+                        "map": "test_map",
+                        "x": 1305,
+                        "y": 865
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Stage 5",
-                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
-                "sections": [
-                    {
-                        "name": "Stage Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: Floating Mind Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Elite Enemy: NAN-01 Defeated",
-                        "item_count": 1
-                    }
-                ],
+                "name": "<p_upper> Elite Enemy: Oread Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": <x4>,
-                        "y": <y>
+                        "map": "test_map",
+                        "x": 1135,
+                        "y": 1020
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: NAN-FIRE BITE Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1255,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Stage 5 Clear",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1570,
+                        "y": 865
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: Floating Mind Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1395,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "<p_upper> Elite Enemy: NAN-01 Defeated",
+                "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 1535,
+                        "y": 1020
+                    }
+                ],
+                "sections": [{"name": ""}]
             },
             {
                 "name": "<p_upper> Advanced Dive Clears",
