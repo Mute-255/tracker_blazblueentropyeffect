@@ -183,96 +183,172 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "Hibiki Advanced Dive Clears",
+                "name": "Hibiki Final Elite Enemy: Susanoo Defeated",
                 "access_rules": ["hibiki, $checkStageAccess|hibiki|5"],
-                "sections": [
-                    {
-                        "name": "Final Elite Enemy: Susanoo Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Entropy 0 Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Entropy 20 Clear",
-                        "item_count": 1,
-                        "access_rules": ["advanced_entropy_20"]
-                    },
-                    {
-                        "name": "Entropy 40 Clear",
-                        "item_count": 1,
-                        "access_rules": ["advanced_entropy_40"]
-                    },
-                    {
-                        "name": "Entropy 60 Clear",
-                        "item_count": 1,
-                        "access_rules": ["advanced_entropy_60"]
-                    },
-                    {
-                        "name": "Entropy 80 Clear",
-                        "item_count": 1,
-                        "access_rules": ["advanced_entropy_80"]
-                    },
-                    {
-                        "name": "Entropy 100 Clear",
-                        "item_count": 1,
-                        "access_rules": ["advanced_entropy_100"]
-                    }
-                ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 200,
-                        "y": 40
+                        "map": "test_map",
+                        "x": 950,
+                        "y": 230
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
             },
             {
-                "name": "Hibiki Extreme Dive Clears",
-                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki)"],
-                "sections": [
-                    {
-                        "name": "Final Elite Enemy: Reki Defeated",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Entropy 0 Clear",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Entropy 20 Clear",
-                        "item_count": 1,
-                        "access_rules": ["extreme_entropy_20"]
-                    },
-                    {
-                        "name": "Entropy 40 Clear",
-                        "item_count": 1,
-                        "access_rules": ["extreme_entropy_40"]
-                    },
-                    {
-                        "name": "Entropy 60 Clear",
-                        "item_count": 1,
-                        "access_rules": ["extreme_entropy_60"]
-                    },
-                    {
-                        "name": "Entropy 80 Clear",
-                        "item_count": 1,
-                        "access_rules": ["extreme_entropy_80"]
-                    },
-                    {
-                        "name": "Entropy 100 Clear",
-                        "item_count": 1,
-                        "access_rules": ["extreme_entropy_100"]
-                    }
-                ],
+                "name": "Hibiki Advanced Entropy 0 Dive Clear",
+                "access_rules": ["hibiki, $checkStageAccess|hibiki|5"],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 225,
-                        "y": 40
+                        "map": "test_map",
+                        "x": 180,
+                        "y": 190
                     }
-                ]
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Advanced Entropy 20 Dive Clear",
+                "access_rules": ["hibiki, advanced_entropy_20, $checkStageAccess|hibiki|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 280,
+                        "y": 190
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Advanced Entropy 40 Dive Clear",
+                "access_rules": ["hibiki, advanced_entropy_40, $checkStageAccess|hibiki|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 380,
+                        "y": 190
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Advanced Entropy 60 Dive Clear",
+                "access_rules": ["hibiki, advanced_entropy_60, $checkStageAccess|hibiki|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 480,
+                        "y": 190
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Advanced Entropy 80 Dive Clear",
+                "access_rules": ["hibiki, advanced_entropy_80, $checkStageAccess|hibiki|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 580,
+                        "y": 190
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Advanced Entropy 100 Dive Clear",
+                "access_rules": ["hibiki, advanced_entropy_100, $checkStageAccess|hibiki|5"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 680,
+                        "y": 190
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Final Elite Enemy: Reki Defeated",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki)"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 950,
+                        "y": 340
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 0 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki)"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 180,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 20 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki), extreme_entropy_20"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 280,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 40 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki), extreme_entropy_40"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 380,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 60 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki), extreme_entropy_60"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 480,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 80 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki), extreme_entropy_80"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 580,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
+            },
+            {
+                "name": "Hibiki Extreme Entropy 100 Dive Clear",
+                "access_rules": ["hibiki, advanced_80_entropy_clear_(hibiki), extreme_entropy_100"],
+                "map_locations": [
+                    {
+                        "map": "test_map",
+                        "x": 680,
+                        "y": 300
+                    }
+                ],
+                "sections": [{"name": ""}]
             }
         ]
     }
