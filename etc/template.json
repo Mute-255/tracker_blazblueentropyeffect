@@ -15,7 +15,7 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Watcher Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>"],
                 "map_locations": [
                     {
@@ -24,10 +24,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Watcher Defeated"}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Sweeper Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>"],
                 "map_locations": [
                     {
@@ -36,7 +36,7 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Sweeper Defeated"}]
             },
             {
                 "name": "<p_upper> Stage 2 Clear",
@@ -51,7 +51,7 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Serpent of Destruction Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
                 "map_locations": [
                     {
@@ -60,10 +60,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Serpent of Destruction Defeated"}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Tree of Origin Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|2"],
                 "map_locations": [
                     {
@@ -72,7 +72,7 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Tree of Origin Defeated"}]
             },
             {
                 "name": "<p_upper> Stage 3 Clear",
@@ -87,7 +87,7 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Arakune Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
                 "map_locations": [
                     {
@@ -96,10 +96,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Arakune Defeated"}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Defiling Eye Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|3"],
                 "map_locations": [
                     {
@@ -108,7 +108,7 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Defiling Eye Defeated"}]
             },
             {
                 "name": "<p_upper> Stage 4 Clear",
@@ -123,7 +123,7 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Oread Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
                 "map_locations": [
                     {
@@ -132,10 +132,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Oread Defeated"}]
             },
             {
-                "name": "<p_upper> Elite Enemy: NAN-FIRE BITE Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|4"],
                 "map_locations": [
                     {
@@ -144,7 +144,7 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "NAN-FIRE BITE Defeated"}]
             },
             {
                 "name": "<p_upper> Stage 5 Clear",
@@ -159,7 +159,7 @@
                 "sections": [{"name": ""}]
             },
             {
-                "name": "<p_upper> Elite Enemy: Floating Mind Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -168,10 +168,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Floating Mind Defeated"}]
             },
             {
-                "name": "<p_upper> Elite Enemy: NAN-01 Defeated",
+                "name": "<p_upper> Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -180,10 +180,10 @@
                         "y": 990
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "NAN-01 Defeated"}]
             },
             {
-                "name": "<p_upper> Final Elite Enemy: Susanoo Defeated",
+                "name": "<p_upper> Final Elite Enemy",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -192,10 +192,10 @@
                         "y": 230
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Susanoo Defeated"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 0 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -204,10 +204,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 0 Clear"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 20 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, advanced_entropy_20, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -216,10 +216,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 20 Clear"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 40 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, advanced_entropy_40, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -228,10 +228,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 40 Clear"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 60 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, advanced_entropy_60, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -240,10 +240,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 60 Clear"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 80 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, advanced_entropy_80, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -252,10 +252,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 80 Clear"}]
             },
             {
-                "name": "<p_upper> Advanced Entropy 100 Dive Clear",
+                "name": "<p_upper> Advanced Dive",
                 "access_rules": ["<p_lower>, advanced_entropy_100, $checkStageAccess|<p_lower>|5"],
                 "map_locations": [
                     {
@@ -264,10 +264,10 @@
                         "y": 190
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 100 Clear"}]
             },
             {
-                "name": "<p_upper> Final Elite Enemy: Reki Defeated",
+                "name": "<p_upper> Final Elite Enemy",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>)"],
                 "map_locations": [
                     {
@@ -276,10 +276,10 @@
                         "y": 340
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Reki Defeated"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 0 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>)"],
                 "map_locations": [
                     {
@@ -288,10 +288,10 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 0 Clear"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 20 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>), extreme_entropy_20"],
                 "map_locations": [
                     {
@@ -300,10 +300,10 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 20 Clear"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 40 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>), extreme_entropy_40"],
                 "map_locations": [
                     {
@@ -312,10 +312,10 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 40 Clear"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 60 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>), extreme_entropy_60"],
                 "map_locations": [
                     {
@@ -324,10 +324,10 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 60 Clear"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 80 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>), extreme_entropy_80"],
                 "map_locations": [
                     {
@@ -336,10 +336,10 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 80 Clear"}]
             },
             {
-                "name": "<p_upper> Extreme Entropy 100 Dive Clear",
+                "name": "<p_upper> Extreme Dive",
                 "access_rules": ["<p_lower>, advanced_80_entropy_clear_(<p_lower>), extreme_entropy_100"],
                 "map_locations": [
                     {
@@ -348,7 +348,7 @@
                         "y": 300
                     }
                 ],
-                "sections": [{"name": ""}]
+                "sections": [{"name": "Entropy 100 Clear"}]
             }
         ]
     }

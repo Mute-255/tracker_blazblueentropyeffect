@@ -14,25 +14,28 @@ for i, char in enumerate(char_list):
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j, elite in enumerate(elite_list):
         count += 1
-        location = f"{char}/{char} Elite Enemy: {elite} Defeated/"
+        n = "" if j == 0 else f"[{j}]"
+        location = f"{char}/{char} Elite Enemy{n}/{elite} Defeated"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     count += 1
-    location = f"{char}/{char} Final Elite Enemy: Susanoo Defeated/"
+    location = f"{char}/{char} Final Elite Enemy/Susanoo Defeated"
     lti_data += f"\t [\"{location}\"] = {count},\n"
     itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j in range(0, 101, 20):
         count += 1
-        location = f"{char}/{char} Advanced Entropy {j} Dive Clear/"
+        n = "" if j == 0 else f"[{j//20}]"
+        location = f"{char}/{char} Advanced Dive{n}/Entropy {j} Clear"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     for j in range(0, 101, 20):
         count += 1
-        location = f"{char}/{char} Extreme Entropy {j} Dive Clear/"
+        n = "" if j == 0 else f"[{j//20}]"
+        location = f"{char}/{char} Extreme Dive{n}/Entropy {j} Clear"
         lti_data += f"\t [\"{location}\"] = {count},\n"
         itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
     count += 1
-    location = f"{char}/{char} Final Elite Enemy: Reki Defeated/"
+    location = f"{char}/{char} Final Elite Enemy[1]/Reki Defeated"
     lti_data += f"\t [\"{location}\"] = {count},\n"
     itl_data += f"\t[{count}] = {{\"@{location}\"}},\n"
 count += 1
