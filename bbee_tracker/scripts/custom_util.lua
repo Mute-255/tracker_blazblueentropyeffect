@@ -52,16 +52,20 @@ function updateLocationCount(proto)
 		local count = (proto_check_count[code] or 0)
 		local proto_obj = Tracker:FindObjectForCode(code)
 		if proto_obj ~= nil then
-			proto_obj:SetOverlay(tostring(count))
-			proto_obj:SetOverlayBackground("#88000000")
-			if count == 0 then
-				proto_obj:SetOverlayColor("#cf1010")
+			if proto_obj.Active then
+				proto_obj:SetOverlay(tostring(count))
+				proto_obj:SetOverlayBackground("#88000000")
+				if count == 0 then
+					proto_obj:SetOverlayColor("#cf1010")
+				else
+					proto_obj:SetOverlayColor("#20ff20")
+				end
 			else
-				proto_obj:SetOverlayColor("#20ff20")
+				proto_obj:SetOverlay("")
 			end
 		end
 	end
 end
 
 ScriptHost:AddOnFrameHandler("update_proto_check_count", updateProtoCheckCount)
-ScriptHost:AddWatchForCode("update_proto_check_count_i", "*", setNextProtoCheckTime)
+ScriptHost:AddWatchForCode("update_proto_check_count_i", "prog", setNextProtoCheckTime)
