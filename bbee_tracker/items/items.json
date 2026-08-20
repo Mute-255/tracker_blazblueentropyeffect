@@ -919,35 +919,35 @@
         "name": "Extreme Mutation: Tactic Expansion",
         "type": "toggle",
         "loop": "true",
-        "img": "images/items/unknown.png",
+        "img": "images/items/em_tactic_expansion.png",
         "codes": "em_tactic_expansion"
     },
     {
         "name": "Extreme Mutation: Extreme Overload",
         "type": "toggle",
         "loop": "true",
-        "img": "images/items/unknown.png",
+        "img": "images/items/em_extreme_overload.png",
         "codes": "em_extreme_overload"
     },
     {
         "name": "Extreme Mutation: Elite Challenge",
         "type": "toggle",
         "loop": "true",
-        "img": "images/items/unknown.png",
+        "img": "images/items/em_elite_challenge.png",
         "codes": "em_elite_challenge"
     },
     {
         "name": "Extreme Mutation: Legacy Enhancement",
         "type": "toggle",
         "loop": "true",
-        "img": "images/items/unknown.png",
+        "img": "images/items/em_legacy_enhancement.png",
         "codes": "em_legacy_enhancement"
     },
     {
         "name": "Extreme Mutation: Combat Upgrade",
         "type": "toggle",
         "loop": "true",
-        "img": "images/items/unknown.png",
+        "img": "images/items/em_combat_upgrade.png",
         "codes": "em_combat_upgrade"
     },
     {
