@@ -21,7 +21,8 @@ ITEM_GROUPS = {
 	["ICEY"] = {"progressive_advanced_stage_(icey)", "advanced_80_entropy_clear_(icey)", "extreme_80_entropy_clear_(icey)"},
 	["Bullet"] = {"progressive_advanced_stage_(bullet)", "advanced_80_entropy_clear_(bullet)", "extreme_80_entropy_clear_(bullet)"},
 	["The Prisoner"] = {"progressive_advanced_stage_(the_prisoner)", "advanced_80_entropy_clear_(the_prisoner)", "extreme_80_entropy_clear_(the_prisoner)"},
-	["Naoto"] = {"progressive_advanced_stage_(naoto)", "advanced_80_entropy_clear_(naoto)", "extreme_80_entropy_clear_(naoto)"}
+	["Naoto"] = {"progressive_advanced_stage_(naoto)", "advanced_80_entropy_clear_(naoto)", "extreme_80_entropy_clear_(naoto)"},
+	["Tactic"] = {"tactic_burn", "tactic_fire_projectile", "tactic_ring_of_fire", "tactic_mine", "tactic_fire_spirit", "tactic_cold", "tactic_icicle", "tactic_ice_spike", "tactic_hail", "tactic_ice_blade", "tactic_lightning", "tactic_lightning_chain", "tactic_thunderbolt", "tactic_lightning_orb", "tactic_electric_pillar", "tactic_poison", "tactic_slime", "tactic_virulent_bomb", "tactic_venom", "tactic_bubble_pufferfish", "tactic_tentacle", "tactic_shadow", "tactic_shadow_spike", "tactic_blackhole", "tactic_shadow_mark", "tactic_light_spear", "tactic_flash", "tactic_lightwave", "tactic_radiance", "tactic_holy_mark", "tactic_dagger", "tactic_rend", "tactic_blade_ring", "tactic_bladestorm", "tactic_flying_blade"}
 }
 
 

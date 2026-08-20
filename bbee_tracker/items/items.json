@@ -635,7 +635,286 @@
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(naoto), ex_clear"
     },
-
+    {
+        "name": "Tactic - Burn",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_burn.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_burn"
+    },
+    {
+        "name": "Tactic - Fire Projectile",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_fire_projectile.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_fire_projectile"
+    },
+    {
+        "name": "Tactic - Ring of Fire",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_ring_of_fire.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_ring_of_fire"
+    },
+    {
+        "name": "Tactic - Mine",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_mine.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_mine"
+    },
+    {
+        "name": "Tactic - Fire Spirit",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_fire_spirit.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_fire_spirit"
+    },
+    {
+        "name": "Tactic - Cold",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_cold.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_cold"
+    },
+    {
+        "name": "Tactic - Icicle",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_icicle.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_icicle"
+    },
+    {
+        "name": "Tactic - Ice Spike",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_ice_spike.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_ice_spike"
+    },
+    {
+        "name": "Tactic - Hail",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_hail.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_hail"
+    },
+    {
+        "name": "Tactic - Ice Blade",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_ice_blade.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_ice_blade"
+    },
+    {
+        "name": "Tactic - Lightning",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_lightning.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_lightning"
+    },
+    {
+        "name": "Tactic - Lightning Chain",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_lightning_chain.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_lightning_chain"
+    },
+    {
+        "name": "Tactic - Thunderbolt",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_thunderbolt.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_thunderbolt"
+    },
+    {
+        "name": "Tactic - Lightning Orb",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_lightning_orb.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_lightning_orb"
+    },
+    {
+        "name": "Tactic - Electric Pillar",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_electric_pillar.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_electric_pillar"
+    },
+    {
+        "name": "Tactic - Poison",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_poison.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_poison"
+    },
+    {
+        "name": "Tactic - Slime",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_slime.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_slime"
+    },
+    {
+        "name": "Tactic - Virulent Bomb",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_virulent_bomb.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_virulent_bomb"
+    },
+    {
+        "name": "Tactic - Venom",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_venom.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_venom"
+    },
+    {
+        "name": "Tactic - Bubble Pufferfish",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_bubble_pufferfish.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_bubble_pufferfish"
+    },
+    {
+        "name": "Tactic - Tentacle",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_tentacle.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_tentacle"
+    },
+    {
+        "name": "Tactic - Shadow",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_shadow.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_shadow"
+    },
+    {
+        "name": "Tactic - Shadow Spike",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_shadow_spike.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_shadow_spike"
+    },
+    {
+        "name": "Tactic - Blackhole",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_blackhole.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_blackhole"
+    },
+    {
+        "name": "Tactic - Shadow Mark",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_shadow_mark.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_shadow_mark"
+    },
+    {
+        "name": "Tactic - Light Spear",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_light_spear.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_light_spear"
+    },
+    {
+        "name": "Tactic - Flash",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_flash.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_flash"
+    },
+    {
+        "name": "Tactic - Lightwave",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_lightwave.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_lightwave"
+    },
+    {
+        "name": "Tactic - Radiance",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_radiance.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_radiance"
+    },
+    {
+        "name": "Tactic - Holy Mark",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_holy_mark.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_holy_mark"
+    },
+    {
+        "name": "Tactic - Dagger",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_dagger.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_dagger"
+    },
+    {
+        "name": "Tactic - Rend",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_rend.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_rend"
+    },
+    {
+        "name": "Tactic - Blade Ring",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_blade_ring.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_blade_ring"
+    },
+    {
+        "name": "Tactic - Bladestorm",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_bladestorm.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_bladestorm"
+    },
+    {
+        "name": "Tactic - Flying Blade",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/tactic_flying_blade.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
+        "codes": "tactic_flying_blade"
+    },
     {
         "name": "Extreme Mutation: Tactic Expansion",
         "type": "toggle",

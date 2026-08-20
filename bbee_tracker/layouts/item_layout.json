@@ -188,6 +188,68 @@
                         }
                     }
                 ]
+            },
+            {
+                "type": "group",
+                "header": "Tactics",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_size": 40,
+                        "item_margin": "4,0",
+                        "rows": [
+                            [
+                                "tactic_burn",
+                                "tactic_fire_projectile",
+                                "tactic_ring_of_fire",
+                                "tactic_mine",
+                                "tactic_fire_spirit",
+                                "tactic_cold",
+                                "tactic_icicle",
+                                "tactic_ice_spike",
+                                "tactic_hail",
+                                "tactic_ice_blade",
+                                "tactic_lightning",
+                                "tactic_lightning_chain",
+                                "tactic_thunderbolt",
+                                "tactic_lightning_orb",
+                                "tactic_electric_pillar",
+                                "tactic_poison",
+                                "tactic_slime",
+                                "tactic_virulent_bomb"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "margin": "27, -7, 0, 5",
+                        "item_size": 40,
+                        "item_margin": "4,0",
+                        "rows": [
+                            [
+                                "tactic_venom",
+                                "tactic_bubble_pufferfish",
+                                "tactic_tentacle",
+                                "tactic_shadow",
+                                "tactic_shadow_spike",
+                                "tactic_blackhole",
+                                "tactic_shadow_mark",
+                                "tactic_light_spear",
+                                "tactic_flash",
+                                "tactic_lightwave",
+                                "tactic_radiance",
+                                "tactic_holy_mark",
+                                "tactic_dagger",
+                                "tactic_rend",
+                                "tactic_blade_ring",
+                                "tactic_bladestorm",
+                                "tactic_flying_blade"
+                            ]
+                        ]
+                    }
+                ]
             }
         ]
     }
