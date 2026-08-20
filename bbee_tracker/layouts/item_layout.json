@@ -1,7 +1,6 @@
 {
     "prototypes": {
         "type": "itemgrid",
-        "h_alignment": "center",
         "item_size": 40,
         "item_margin": "4,4",
         "rows": [
@@ -113,24 +112,18 @@
         "content": [
             {
                 "type": "layout",
-                "dropshadow": false,
-                "margin": 0,
                 "key": "prototypes"
             },
             {
                 "type": "layout",
-                "dropshadow": false,
-                "margin": 0,
                 "key": "stage"
             },
             {
                 "type": "layout",
-                "dropshadow": false,
                 "key": "advanced_clear"
             },
             {
                 "type": "layout",
-                "dropshadow": false,
                 "key": "extreme_clear"
             },
             {
@@ -170,9 +163,28 @@
                         "header": "Mind Crystal Slots",
                         "content": {
                             "type": "item",
-                            "item_size": "300, 36",
-                            "margin": "10, 7",
+                            "item_size": "300, 40",
+                            "margin": "10, 7, 0, 0",
                             "item": "mind_crystal_slot"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Extreme Mutations",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "item_h_alignment": "center",
+                            "item_size": "40",
+                            "rows": [
+                                [
+                                    "em_tactic_expansion",
+                                    "em_extreme_overload",
+                                    "em_elite_challenge",
+                                    "em_legacy_enhancement",
+                                    "em_combat_upgrade"
+                                ]
+                            ]
                         }
                     }
                 ]

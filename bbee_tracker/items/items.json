@@ -219,7 +219,6 @@
         "name": "Advanced 80 Entropy Clear (Ragna)",
         "type": "toggle",
         "loop": "true",
-        // "img": "images/items/advanced_80_entropy_clear_(ragna).png",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(ragna)"
     },
@@ -227,7 +226,6 @@
         "name": "Extreme 80 Entropy Clear (Ragna)",
         "type": "toggle",
         "loop": "true",
-        // "img": "images/items/extreme_80_entropy_clear_(ragna).png",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(ragna), ex_clear"
     },
@@ -251,7 +249,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(noel).png",
         "codes": "advanced_80_entropy_clear_(noel)"
     },
     {
@@ -259,7 +256,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(noel).png",
         "codes": "extreme_80_entropy_clear_(noel), ex_clear"
     },
     {
@@ -282,7 +278,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(lambda_-no.11-).png",
         "codes": "advanced_80_entropy_clear_(lambda_-no.11-)"
     },
     {
@@ -290,7 +285,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(lambda_-no.11-).png",
         "codes": "extreme_80_entropy_clear_(lambda_-no.11-), ex_clear"
     },
     {
@@ -313,7 +307,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(es).png",
         "codes": "advanced_80_entropy_clear_(es)"
     },
     {
@@ -321,7 +314,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(es).png",
         "codes": "extreme_80_entropy_clear_(es), ex_clear"
     },
     {
@@ -344,7 +336,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(rachel).png",
         "codes": "advanced_80_entropy_clear_(rachel)"
     },
     {
@@ -352,7 +343,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(rachel).png",
         "codes": "extreme_80_entropy_clear_(rachel), ex_clear"
     },
     {
@@ -375,7 +365,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(taokaka).png",
         "codes": "advanced_80_entropy_clear_(taokaka)"
     },
     {
@@ -383,7 +372,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(taokaka).png",
         "codes": "extreme_80_entropy_clear_(taokaka), ex_clear"
     },
     {
@@ -406,7 +394,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(jin).png",
         "codes": "advanced_80_entropy_clear_(jin)"
     },
     {
@@ -414,7 +401,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(jin).png",
         "codes": "extreme_80_entropy_clear_(jin), ex_clear"
     },
     {
@@ -437,7 +423,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(kokonoe).png",
         "codes": "advanced_80_entropy_clear_(kokonoe)"
     },
     {
@@ -445,7 +430,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(kokonoe).png",
         "codes": "extreme_80_entropy_clear_(kokonoe), ex_clear"
     },
     {
@@ -468,7 +452,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(hakumen).png",
         "codes": "advanced_80_entropy_clear_(hakumen)"
     },
     {
@@ -476,7 +459,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(hakumen).png",
         "codes": "extreme_80_entropy_clear_(hakumen), ex_clear"
     },
     {
@@ -499,7 +481,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(mai).png",
         "codes": "advanced_80_entropy_clear_(mai)"
     },
     {
@@ -507,7 +488,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(mai).png",
         "codes": "extreme_80_entropy_clear_(mai), ex_clear"
     },
     {
@@ -530,7 +510,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(hazama).png",
         "codes": "advanced_80_entropy_clear_(hazama)"
     },
     {
@@ -538,7 +517,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(hazama).png",
         "codes": "extreme_80_entropy_clear_(hazama), ex_clear"
     },
     {
@@ -561,7 +539,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(icey).png",
         "codes": "advanced_80_entropy_clear_(icey)"
     },
     {
@@ -569,7 +546,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(icey).png",
         "codes": "extreme_80_entropy_clear_(icey), ex_clear"
     },
     {
@@ -592,7 +568,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(bullet).png",
         "codes": "advanced_80_entropy_clear_(bullet)"
     },
     {
@@ -600,7 +575,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(bullet).png",
         "codes": "extreme_80_entropy_clear_(bullet), ex_clear"
     },
     {
@@ -623,7 +597,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(the_prisoner).png",
         "codes": "advanced_80_entropy_clear_(the_prisoner)"
     },
     {
@@ -631,7 +604,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(the_prisoner).png",
         "codes": "extreme_80_entropy_clear_(the_prisoner), ex_clear"
     },
     {
@@ -654,7 +626,6 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/adv_clear.png",
-        // "img": "images/items/advanced_80_entropy_clear_(naoto).png",
         "codes": "advanced_80_entropy_clear_(naoto)"
     },
     {
@@ -662,8 +633,43 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/ext_clear.png",
-        // "img": "images/items/extreme_80_entropy_clear_(naoto).png",
         "codes": "extreme_80_entropy_clear_(naoto), ex_clear"
+    },
+
+    {
+        "name": "Extreme Mutation: Tactic Expansion",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unknown.png",
+        "codes": "em_tactic_expansion"
+    },
+    {
+        "name": "Extreme Mutation: Extreme Overload",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unknown.png",
+        "codes": "em_extreme_overload"
+    },
+    {
+        "name": "Extreme Mutation: Elite Challenge",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unknown.png",
+        "codes": "em_elite_challenge"
+    },
+    {
+        "name": "Extreme Mutation: Legacy Enhancement",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unknown.png",
+        "codes": "em_legacy_enhancement"
+    },
+    {
+        "name": "Extreme Mutation: Combat Upgrade",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/unknown.png",
+        "codes": "em_combat_upgrade"
     },
     {
         "name": "Mind Crystal Slots",

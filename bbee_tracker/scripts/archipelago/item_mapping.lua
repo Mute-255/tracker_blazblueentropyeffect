@@ -67,5 +67,10 @@ ITEM_MAPPING = {
     [66] = {"advanced_80_entropy_clear_(naoto)", "toggle"},
     [67] = {"extreme_80_entropy_clear_(naoto)", "toggle"},
 
+    [103] = {"em_tactic_expansion", "toggle"},
+    [104] = {"em_extreme_overload", "toggle"},
+    [105] = {"em_elite_challenge", "toggle"},
+    [106] = {"em_legacy_enhancement", "toggle"},
+    [107] = {"em_combat_upgrade", "toggle"},
     [108] = {"mind_crystal_slot", "progressive"}
 }
