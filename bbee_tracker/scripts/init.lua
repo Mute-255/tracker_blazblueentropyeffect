@@ -1,3 +1,27 @@
+proto_list = { "Hibiki", "Ragna", "Noel", "Λ -No.11-", "Es", "Rachel", "Taokaka", "Jin", "Kokonoe", "Hakumen", "Mai", "Hazama", "ICEY", "Bullet", "The Prisoner", "Naoto" }
+
+function getProtoCodeName(name)
+	local code = name:lower():gsub(" ", "_")
+    if name:match("^Λ") then
+        code = "lambda_-no.11-"
+    end
+	return code
+end
+
+-- create the jump items dynamically
+for i, p in ipairs(proto_list) do
+    local c = getProtoCodeName(p)
+
+    local jump_item = ScriptHost:CreateLuaItem()
+    jump_item.Name = "Jump to " .. p .. " Tab"
+    jump_item.Icon = ImageReference:FromPackRelativePath("images/items/up_arrow.png")
+    jump_item.PotentialCodes = {"jump_" .. c}
+
+    jump_item.OnLeftClickFunc = function(item)
+        Tracker:UiHint("ActivateTab", p)
+    end
+end
+
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/options.json")
 Tracker:AddMaps("maps/maps.json")

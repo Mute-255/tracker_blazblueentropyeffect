@@ -2,6 +2,7 @@
     "prototypes": {
         "type": "itemgrid",
         "item_size": 40,
+        "margin": "5,-15,0,0",
         "item_margin": "4,4",
         "rows": [
             [
@@ -21,14 +22,15 @@
                 "bullet",
                 "the_prisoner",
                 "naoto",
-                "naoto"
+                "naoto",
+                ""
             ]
         ]
     },
     "stage": {
         "type": "itemgrid",
         "h_alignment": "center",
-        "margin": "5,-15,0,5",
+        "margin": "5,-10,0,0",
         "item_size": "40, 10",
         "item_margin": "4,4",
         "item_h_alignment": "center",
@@ -108,8 +110,36 @@
     "tracker_items": {
         "type": "array",
         "orientation": "vertical",
+        "margin": "0, -10, 0, 0",
         "style": "wrap",
         "content": [
+            {
+                "type": "itemgrid",
+                "item_size": "40, 20",
+                "item_margin": "4,4",
+                "rows": [
+                    [
+                        "jump_hibiki",
+                        "jump_ragna",
+                        "jump_noel",
+                        "jump_lambda_-no.11-",
+                        "jump_es",
+                        "jump_rachel",
+                        "jump_taokaka",
+                        "jump_jin",
+                        "jump_kokonoe",
+                        "jump_hakumen",
+                        "jump_mai",
+                        "jump_hazama",
+                        "jump_icey",
+                        "jump_bullet",
+                        "jump_the_prisoner",
+                        "jump_naoto",
+                        "jump_naoto",
+                        ""
+                    ]
+                ]
+            },
             {
                 "type": "layout",
                 "key": "prototypes"
@@ -129,7 +159,6 @@
             {
                 "type": "array",
                 "orientation": "horizontal",
-                "margin": "0,0",
                 "content": [
                     {
                         "type": "group",
@@ -140,6 +169,7 @@
                             "item_margin": "4, 4",
                             "item_h_alignment": "center",
                             "item_size": "80, 40",
+                            "margin": "0,3,0,0",
                             "rows": [
                                 [
                                     "progressive_advanced_entropy_limit",

@@ -2,7 +2,6 @@
     {
         "name": "Hibiki",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/hibiki.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hibiki, prog"
@@ -10,7 +9,6 @@
     {
         "name": "Ragna",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ragna.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "ragna, prog"
@@ -18,7 +16,6 @@
     {
         "name": "Noel",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/noel.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "noel, prog"
@@ -26,7 +23,6 @@
     {
         "name": "\u039b -No.11-",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/lambda_-no.11-.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "lambda_-no.11-, prog"
@@ -34,7 +30,6 @@
     {
         "name": "Es",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/es.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "es, prog"
@@ -42,7 +37,6 @@
     {
         "name": "Rachel",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/rachel.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "rachel, prog"
@@ -50,7 +44,6 @@
     {
         "name": "Taokaka",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/taokaka.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "taokaka, prog"
@@ -58,7 +51,6 @@
     {
         "name": "Jin",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/jin.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "jin, prog"
@@ -66,7 +58,6 @@
     {
         "name": "Kokonoe",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/kokonoe.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "kokonoe, prog"
@@ -74,7 +65,6 @@
     {
         "name": "Hakumen",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/hakumen.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hakumen, prog"
@@ -82,7 +72,6 @@
     {
         "name": "Mai",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/mai.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "mai, prog"
@@ -90,7 +79,6 @@
     {
         "name": "Hazama",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/hazama.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "hazama, prog"
@@ -98,7 +86,6 @@
     {
         "name": "ICEY",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/icey.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "icey, prog"
@@ -106,7 +93,6 @@
     {
         "name": "Bullet",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/bullet.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "bullet, prog"
@@ -114,7 +100,6 @@
     {
         "name": "The Prisoner",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/the_prisoner.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "the_prisoner, prog"
@@ -122,7 +107,6 @@
     {
         "name": "Naoto",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/naoto.png",
         "disabled_img_mods": "grey,overlay|images/items/lock_overlay.png",
         "codes": "naoto, prog"
@@ -189,14 +173,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Hibiki)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(hibiki), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Hibiki)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(hibiki), ex_clear, prog"
     },
@@ -218,14 +200,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Ragna)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(ragna), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Ragna)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(ragna), ex_clear, prog"
     },
@@ -247,14 +227,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Noel)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(noel), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Noel)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(noel), ex_clear, prog"
     },
@@ -276,14 +254,12 @@
     {
         "name": "Advanced 80 Entropy Clear (\u039b -No.11-)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(lambda_-no.11-), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (\u039b -No.11-)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(lambda_-no.11-), ex_clear, prog"
     },
@@ -305,14 +281,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Es)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(es), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Es)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(es), ex_clear, prog"
     },
@@ -334,14 +308,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Rachel)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(rachel), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Rachel)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(rachel), ex_clear, prog"
     },
@@ -363,14 +335,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Taokaka)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(taokaka), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Taokaka)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(taokaka), ex_clear, prog"
     },
@@ -392,14 +362,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Jin)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(jin), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Jin)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(jin), ex_clear, prog"
     },
@@ -421,14 +389,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Kokonoe)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(kokonoe), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Kokonoe)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(kokonoe), ex_clear, prog"
     },
@@ -450,14 +416,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Hakumen)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(hakumen), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Hakumen)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(hakumen), ex_clear, prog"
     },
@@ -479,14 +443,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Mai)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(mai), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Mai)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(mai), ex_clear, prog"
     },
@@ -508,14 +470,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Hazama)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(hazama), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Hazama)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(hazama), ex_clear, prog"
     },
@@ -537,14 +497,12 @@
     {
         "name": "Advanced 80 Entropy Clear (ICEY)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(icey), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (ICEY)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(icey), ex_clear, prog"
     },
@@ -566,14 +524,12 @@
     {
         "name": "Advanced 80 Entropy Clear (Bullet)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(bullet), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Bullet)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(bullet), ex_clear, prog"
     },
@@ -595,14 +551,12 @@
     {
         "name": "Advanced 80 Entropy Clear (The Prisoner)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(the_prisoner), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (The Prisoner)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(the_prisoner), ex_clear, prog"
     },
@@ -624,21 +578,18 @@
     {
         "name": "Advanced 80 Entropy Clear (Naoto)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/adv_clear.png",
         "codes": "advanced_80_entropy_clear_(naoto), prog"
     },
     {
         "name": "Extreme 80 Entropy Clear (Naoto)",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/ext_clear.png",
         "codes": "extreme_80_entropy_clear_(naoto), ex_clear, prog"
     },
     {
         "name": "Tactic - Burn",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_burn.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_burn"
@@ -646,7 +597,6 @@
     {
         "name": "Tactic - Fire Projectile",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_fire_projectile.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_fire_projectile"
@@ -654,7 +604,6 @@
     {
         "name": "Tactic - Ring of Fire",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_ring_of_fire.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_ring_of_fire"
@@ -662,7 +611,6 @@
     {
         "name": "Tactic - Mine",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_mine.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_mine"
@@ -670,7 +618,6 @@
     {
         "name": "Tactic - Fire Spirit",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_fire_spirit.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_fire_spirit"
@@ -678,7 +625,6 @@
     {
         "name": "Tactic - Cold",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_cold.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_cold"
@@ -686,7 +632,6 @@
     {
         "name": "Tactic - Icicle",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_icicle.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_icicle"
@@ -694,7 +639,6 @@
     {
         "name": "Tactic - Ice Spike",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_ice_spike.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_ice_spike"
@@ -702,7 +646,6 @@
     {
         "name": "Tactic - Hail",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_hail.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_hail"
@@ -710,7 +653,6 @@
     {
         "name": "Tactic - Ice Blade",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_ice_blade.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_ice_blade"
@@ -718,7 +660,6 @@
     {
         "name": "Tactic - Lightning",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_lightning.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_lightning"
@@ -726,7 +667,6 @@
     {
         "name": "Tactic - Lightning Chain",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_lightning_chain.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_lightning_chain"
@@ -734,7 +674,6 @@
     {
         "name": "Tactic - Thunderbolt",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_thunderbolt.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_thunderbolt"
@@ -742,7 +681,6 @@
     {
         "name": "Tactic - Lightning Orb",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_lightning_orb.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_lightning_orb"
@@ -750,7 +688,6 @@
     {
         "name": "Tactic - Electric Pillar",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_electric_pillar.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_electric_pillar"
@@ -758,7 +695,6 @@
     {
         "name": "Tactic - Poison",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_poison.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_poison"
@@ -766,7 +702,6 @@
     {
         "name": "Tactic - Slime",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_slime.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_slime"
@@ -774,7 +709,6 @@
     {
         "name": "Tactic - Virulent Bomb",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_virulent_bomb.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_virulent_bomb"
@@ -782,7 +716,6 @@
     {
         "name": "Tactic - Venom",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_venom.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_venom"
@@ -790,7 +723,6 @@
     {
         "name": "Tactic - Bubble Pufferfish",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_bubble_pufferfish.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_bubble_pufferfish"
@@ -798,7 +730,6 @@
     {
         "name": "Tactic - Tentacle",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_tentacle.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_tentacle"
@@ -806,7 +737,6 @@
     {
         "name": "Tactic - Shadow",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_shadow.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_shadow"
@@ -814,7 +744,6 @@
     {
         "name": "Tactic - Shadow Spike",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_shadow_spike.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_shadow_spike"
@@ -822,7 +751,6 @@
     {
         "name": "Tactic - Blackhole",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_blackhole.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_blackhole"
@@ -830,7 +758,6 @@
     {
         "name": "Tactic - Shadow Mark",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_shadow_mark.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_shadow_mark"
@@ -838,7 +765,6 @@
     {
         "name": "Tactic - Light Spear",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_light_spear.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_light_spear"
@@ -846,7 +772,6 @@
     {
         "name": "Tactic - Flash",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_flash.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_flash"
@@ -854,7 +779,6 @@
     {
         "name": "Tactic - Lightwave",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_lightwave.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_lightwave"
@@ -862,7 +786,6 @@
     {
         "name": "Tactic - Radiance",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_radiance.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_radiance"
@@ -870,7 +793,6 @@
     {
         "name": "Tactic - Holy Mark",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_holy_mark.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_holy_mark"
@@ -878,7 +800,6 @@
     {
         "name": "Tactic - Dagger",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_dagger.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_dagger"
@@ -886,7 +807,6 @@
     {
         "name": "Tactic - Rend",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_rend.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_rend"
@@ -894,7 +814,6 @@
     {
         "name": "Tactic - Blade Ring",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_blade_ring.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_blade_ring"
@@ -902,7 +821,6 @@
     {
         "name": "Tactic - Bladestorm",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_bladestorm.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_bladestorm"
@@ -910,7 +828,6 @@
     {
         "name": "Tactic - Flying Blade",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/tactic_flying_blade.png",
         "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "tactic_flying_blade"
@@ -918,35 +835,30 @@
     {
         "name": "Extreme Mutation: Tactic Expansion",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/em_tactic_expansion.png",
         "codes": "em_tactic_expansion"
     },
     {
         "name": "Extreme Mutation: Extreme Overload",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/em_extreme_overload.png",
         "codes": "em_extreme_overload"
     },
     {
         "name": "Extreme Mutation: Elite Challenge",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/em_elite_challenge.png",
         "codes": "em_elite_challenge"
     },
     {
         "name": "Extreme Mutation: Legacy Enhancement",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/em_legacy_enhancement.png",
         "codes": "em_legacy_enhancement"
     },
     {
         "name": "Extreme Mutation: Combat Upgrade",
         "type": "toggle",
-        "loop": "true",
         "img": "images/items/em_combat_upgrade.png",
         "codes": "em_combat_upgrade"
     },

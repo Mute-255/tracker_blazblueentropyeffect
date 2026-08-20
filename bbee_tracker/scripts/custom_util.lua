@@ -10,16 +10,6 @@ function checkStageAccess(prototype, stage)
 	return item.CurrentStage+1 >= tonumber(stage)
 end
 
-proto_list = { "Hibiki", "Ragna", "Noel", "Λ -No.11-", "Es", "Rachel", "Taokaka", "Jin", "Kokonoe", "Hakumen", "Mai", "Hazama", "ICEY", "Bullet", "The Prisoner", "Naoto" }
-
-function getProtoCodeName(name)
-	local code = name:lower():gsub(" ", "_")
-    if name:match("^Λ") then
-        code = "lambda_-no.11-"
-    end
-	return code
-end
-
 next_update = 0.01
 function updateProtoCheckCount(elapsed)
 	if next_update < 0 then
