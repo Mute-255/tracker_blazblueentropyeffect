@@ -16,9 +16,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "main_map",
-                        "x": 250,
-                        "y": 450
+                        "map": "victory_map",
+                        "x": 1024,
+                        "y": 640
                     }
                 ]
             }
