@@ -881,253 +881,295 @@
     {
         "name": "Mind Crystal - Bloodthirst",
         "type": "toggle",
-        "img": "images/items/mind_crystal_bloodthirst.png",
+        "img": "images/items/mind_crystals/mind_crystal_bloodthirst.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_bloodthirst"
     },
     {
         "name": "Mind Crystal - Violent Impact",
         "type": "toggle",
-        "img": "images/items/mind_crystal_violent_impact.png",
+        "img": "images/items/mind_crystals/mind_crystal_violent_impact.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_violent_impact"
     },
     {
         "name": "Mind Crystal - Giant Slayer",
         "type": "toggle",
-        "img": "images/items/mind_crystal_giant_slayer.png",
+        "img": "images/items/mind_crystals/mind_crystal_giant_slayer.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_giant_slayer"
     },
     {
         "name": "Mind Crystal - Trap Resistance",
         "type": "toggle",
-        "img": "images/items/mind_crystal_trap_resistance.png",
+        "img": "images/items/mind_crystals/mind_crystal_trap_resistance.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_trap_resistance"
     },
     {
         "name": "Mind Crystal - Indestructible",
         "type": "toggle",
-        "img": "images/items/mind_crystal_indestructible.png",
+        "img": "images/items/mind_crystals/mind_crystal_indestructible.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_indestructible"
     },
     {
         "name": "Mind Crystal - Strong Momentum",
         "type": "toggle",
-        "img": "images/items/mind_crystal_strong_momentum.png",
+        "img": "images/items/mind_crystals/mind_crystal_strong_momentum.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_strong_momentum"
     },
     {
         "name": "Mind Crystal - Blind Rage",
         "type": "toggle",
-        "img": "images/items/mind_crystal_blind_rage.png",
+        "img": "images/items/mind_crystals/mind_crystal_blind_rage.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_blind_rage"
     },
     {
         "name": "Mind Crystal - Infiltration",
         "type": "toggle",
-        "img": "images/items/mind_crystal_infiltration.png",
+        "img": "images/items/mind_crystals/mind_crystal_infiltration.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_infiltration"
     },
     {
         "name": "Mind Crystal - Exhilaration",
         "type": "toggle",
-        "img": "images/items/mind_crystal_exhilaration.png",
+        "img": "images/items/mind_crystals/mind_crystal_exhilaration.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_exhilaration"
     },
     {
         "name": "Mind Crystal - Not Dead Yet",
         "type": "toggle",
-        "img": "images/items/mind_crystal_not_dead_yet.png",
+        "img": "images/items/mind_crystals/mind_crystal_not_dead_yet.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_not_dead_yet"
     },
     {
         "name": "Mind Crystal - Concussive Strikes",
         "type": "toggle",
-        "img": "images/items/mind_crystal_concussive_strikes.png",
+        "img": "images/items/mind_crystals/mind_crystal_concussive_strikes.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_concussive_strikes"
     },
     {
         "name": "Mind Crystal - Defensive Combo",
         "type": "toggle",
-        "img": "images/items/mind_crystal_defensive_combo.png",
+        "img": "images/items/mind_crystals/mind_crystal_defensive_combo.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_defensive_combo"
     },
     {
         "name": "Mind Crystal - Perserverance",
         "type": "toggle",
-        "img": "images/items/mind_crystal_perserverance.png",
+        "img": "images/items/mind_crystals/mind_crystal_perserverance.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_perserverance"
     },
     {
         "name": "Mind Crystal - The More The Merrier",
         "type": "toggle",
-        "img": "images/items/mind_crystal_the_more_the_merrier.png",
+        "img": "images/items/mind_crystals/mind_crystal_the_more_the_merrier.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_the_more_the_merrier"
     },
     {
         "name": "Mind Crystal - Emotional Value",
         "type": "toggle",
-        "img": "images/items/mind_crystal_emotional_value.png",
+        "img": "images/items/mind_crystals/mind_crystal_emotional_value.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_emotional_value"
     },
     {
         "name": "Mind Crystal - Respite",
         "type": "toggle",
-        "img": "images/items/mind_crystal_respite.png",
+        "img": "images/items/mind_crystals/mind_crystal_respite.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_respite"
     },
     {
         "name": "Mind Crystal - Discount",
         "type": "toggle",
-        "img": "images/items/mind_crystal_discount.png",
+        "img": "images/items/mind_crystals/mind_crystal_discount.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_discount"
     },
     {
         "name": "Mind Crystal - Domination",
         "type": "toggle",
-        "img": "images/items/mind_crystal_domination.png",
+        "img": "images/items/mind_crystals/mind_crystal_domination.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_domination"
     },
     {
         "name": "Mind Crystal - Straightforward",
         "type": "toggle",
-        "img": "images/items/mind_crystal_straightforward.png",
+        "img": "images/items/mind_crystals/mind_crystal_straightforward.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_straightforward"
     },
     {
         "name": "Mind Crystal - Take Initiative",
         "type": "toggle",
-        "img": "images/items/mind_crystal_take_initiative.png",
+        "img": "images/items/mind_crystals/mind_crystal_take_initiative.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_take_initiative"
     },
     {
         "name": "Mind Crystal - Compliment of Death",
         "type": "toggle",
-        "img": "images/items/mind_crystal_compliment_of_death.png",
+        "img": "images/items/mind_crystals/mind_crystal_compliment_of_death.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_compliment_of_death"
     },
     {
         "name": "Mind Crystal - Plenty of Chances",
         "type": "toggle",
-        "img": "images/items/mind_crystal_plenty_of_chances.png",
+        "img": "images/items/mind_crystals/mind_crystal_plenty_of_chances.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_plenty_of_chances"
     },
     {
         "name": "Mind Crystal - Blooming Vigor",
         "type": "toggle",
-        "img": "images/items/mind_crystal_blooming_vigor.png",
+        "img": "images/items/mind_crystals/mind_crystal_blooming_vigor.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_blooming_vigor"
     },
     {
         "name": "Mind Crystal - Expanded Foundation",
         "type": "toggle",
-        "img": "images/items/mind_crystal_expanded_foundation.png",
+        "img": "images/items/mind_crystals/mind_crystal_expanded_foundation.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_expanded_foundation"
     },
     {
         "name": "Mind Crystal - Chance Boost: Light",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_light.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_light.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_light"
     },
     {
         "name": "Mind Crystal - Chance Boost: Ice",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_ice.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_ice.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_ice"
     },
     {
         "name": "Mind Crystal - Chance Boost: Fire",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_fire.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_fire.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_fire"
     },
     {
         "name": "Mind Crystal - Chance Boost: Lightning",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_lightning.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_lightning.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_lightning"
     },
     {
         "name": "Mind Crystal - Chance Boost: Dark",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_dark.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_dark.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_dark"
     },
     {
         "name": "Mind Crystal - Chance Boost: Poison",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_poison.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_poison.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_poison"
     },
     {
         "name": "Mind Crystal - Chance Boost: Blade",
         "type": "toggle",
-        "img": "images/items/mind_crystal_chance_boost_blade.png",
+        "img": "images/items/mind_crystals/mind_crystal_chance_boost_blade.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_chance_boost_blade"
     },
     {
         "name": "Mind Crystal - Curse to Boon",
         "type": "toggle",
-        "img": "images/items/mind_crystal_curse_to_boon.png",
+        "img": "images/items/mind_crystals/mind_crystal_curse_to_boon.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_curse_to_boon"
     },
     {
         "name": "Mind Crystal - Mixture Replenishment",
         "type": "toggle",
-        "img": "images/items/mind_crystal_mixture_replenishment.png",
+        "img": "images/items/mind_crystals/mind_crystal_mixture_replenishment.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_mixture_replenishment"
     },
     {
         "name": "Mind Crystal - Mixture Enhancement",
         "type": "toggle",
-        "img": "images/items/mind_crystal_mixture_enhancement.png",
+        "img": "images/items/mind_crystals/mind_crystal_mixture_enhancement.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_mixture_enhancement"
     },
     {
         "name": "Mind Crystal - Vengeful Wrath",
         "type": "toggle",
-        "img": "images/items/mind_crystal_vengeful_wrath.png",
+        "img": "images/items/mind_crystals/mind_crystal_vengeful_wrath.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_vengeful_wrath"
     },
     {
         "name": "Mind Crystal - Starting Well-off",
         "type": "toggle",
-        "img": "images/items/mind_crystal_starting_well-off.png",
+        "img": "images/items/mind_crystals/mind_crystal_starting_well-off.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_starting_well-off"
     },
     {
         "name": "Mind Crystal - Solo Performance",
         "type": "toggle",
-        "img": "images/items/mind_crystal_solo_performance.png",
+        "img": "images/items/mind_crystals/mind_crystal_solo_performance.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_solo_performance"
     },
     {
         "name": "Mind Crystal - Perennial",
         "type": "toggle",
-        "img": "images/items/mind_crystal_perennial.png",
+        "img": "images/items/mind_crystals/mind_crystal_perennial.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_perennial"
     },
     {
         "name": "Mind Crystal - Terminal Predator",
         "type": "toggle",
-        "img": "images/items/mind_crystal_terminal_predator.png",
+        "img": "images/items/mind_crystals/mind_crystal_terminal_predator.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_terminal_predator"
     },
     {
         "name": "Mind Crystal - Recycling Expert",
         "type": "toggle",
-        "img": "images/items/mind_crystal_recycling_expert.png",
+        "img": "images/items/mind_crystals/mind_crystal_recycling_expert.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_recycling_expert"
     },
     {
         "name": "Mind Crystal - Legacy Protocol",
         "type": "toggle",
-        "img": "images/items/mind_crystal_legacy_protocol.png",
+        "img": "images/items/mind_crystals/mind_crystal_legacy_protocol.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_legacy_protocol"
     },
     {
         "name": "Mind Crystal - Flow State",
         "type": "toggle",
-        "img": "images/items/mind_crystal_flow_state.png",
+        "img": "images/items/mind_crystals/mind_crystal_flow_state.png",
+        "disabled_img_mods": "grey,brightness|0.4,overlay|images/items/lock_overlay.png",
         "codes": "mind_crystal_flow_state"
     },
     {
