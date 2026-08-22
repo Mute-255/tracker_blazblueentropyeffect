@@ -14,7 +14,7 @@ for i, p in ipairs(proto_list) do
 
     local jump_item = ScriptHost:CreateLuaItem()
     jump_item.Name = "Jump to " .. p .. " Tab"
-    jump_item.Icon = ImageReference:FromPackRelativePath("images/items/up_arrow.png")
+    jump_item.Icon = ImageReference:FromPackRelativePath("images/items/arrow_up.png")
     jump_item.PotentialCodes = {"jump_" .. c}
 
     jump_item.OnLeftClickFunc = function(item)

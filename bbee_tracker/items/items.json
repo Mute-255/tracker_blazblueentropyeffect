@@ -1175,14 +1175,14 @@
     {
         "name": "Toggle Page",
         "type": "toggle",
-        "img": "images/items/right_arrow.png",
+        "img": "images/items/arrow_right.png",
         "disabled_img_mods": "",
         "codes": "toggle_mind_crystals"
     },
     {
         "name": "Toggle Page",
         "type": "toggle",
-        "img": "images/items/right_arrow.png",
+        "img": "images/items/arrow_left.png",
         "disabled_img_mods": "",
         "codes": "toggle_main_items"
     }
