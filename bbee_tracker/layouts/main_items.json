@@ -1,0 +1,143 @@
+{
+    "items_lower": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Entropy Limit",
+                        "dock": "left",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "4, 4",
+                            "item_h_alignment": "center",
+                            "item_size": "80, 40",
+                            "margin": "0,3,-3,0",
+                            "rows": [
+                                [
+                                    "progressive_advanced_entropy_limit",
+                                    "progressive_extreme_entropy_limit"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Evotype Slots",
+                        "content": {
+                            "type": "item",
+                            "item_size": "80, 40",
+                            "margin": "10, 7, 0, 0",
+                            "item": "evotype_slot"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Mind Crystal Slots",
+                        "content": {
+                            "type": "item",
+                            "item_size": "300, 40",
+                            "margin": "7, 7, 0, 0",
+                            "item": "mind_crystal_slot"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Extreme Mutations",
+                        "content": {
+                            "type": "itemgrid",
+                            "item_margin": "2, 2",
+                            "item_h_alignment": "center",
+                            "item_size": "40",
+                            "margin": "5, 5, 0, 0",
+                            "rows": [
+                                [
+                                    "em_tactic_expansion",
+                                    "em_extreme_overload",
+                                    "em_elite_challenge",
+                                    "em_legacy_enhancement",
+                                    "em_combat_upgrade"
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "",
+                        "content": {
+                            "type": "item",
+                            "item": "toggle_mind_crystals",
+                            "margin": "0, 6, 0, 0"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Tactics",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_size": 40,
+                        "item_margin": "4,0",
+                        "rows": [
+                            [
+                                "tactic_burn",
+                                "tactic_fire_projectile",
+                                "tactic_ring_of_fire",
+                                "tactic_hail",
+                                "tactic_ice_blade",
+                                "tactic_lightning",
+                                "tactic_lightning_chain",
+                                "tactic_thunderbolt",
+                                "tactic_venom",
+                                "tactic_bubble_pufferfish",
+                                "tactic_tentacle",
+                                "tactic_shadow",
+                                "tactic_shadow_spike",
+                                "tactic_radiance",
+                                "tactic_holy_mark",
+                                "tactic_dagger",
+                                "tactic_rend",
+                                "tactic_blade_ring"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "margin": "27, -7, 0, 5",
+                        "item_size": 40,
+                        "item_margin": "4,0",
+                        "rows": [
+                            [
+                                "tactic_mine",
+                                "tactic_fire_spirit",
+                                "tactic_cold",
+                                "tactic_icicle",
+                                "tactic_ice_spike",
+                                "tactic_lightning_orb",
+                                "tactic_electric_pillar",
+                                "tactic_poison",
+                                "tactic_slime",
+                                "tactic_virulent_bomb",
+                                "tactic_blackhole",
+                                "tactic_shadow_mark",
+                                "tactic_light_spear",
+                                "tactic_flash",
+                                "tactic_lightwave",
+                                "tactic_bladestorm",
+                                "tactic_flying_blade"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

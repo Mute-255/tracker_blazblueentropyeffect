@@ -57,5 +57,18 @@ function updateLocationCount(proto)
 	end
 end
 
+function loadMindCrystalPage(code)
+	local arrow = Tracker:FindObjectForCode(code)
+	arrow.Active = false
+	Tracker:AddLayouts("layouts/mind_crystals.json")
+end
+
+function loadMainItemsPage(code)
+	local arrow = Tracker:FindObjectForCode(code)
+	arrow.Active = false
+	Tracker:AddLayouts("layouts/main_items.json")
+end
 ScriptHost:AddOnFrameHandler("update_proto_check_count", updateProtoCheckCount)
 ScriptHost:AddWatchForCode("update_proto_check_count_i", "prog", setNextProtoCheckTime)
+ScriptHost:AddWatchForCode("load_mind_crystal_page", "toggle_mind_crystals", loadMindCrystalPage)
+ScriptHost:AddWatchForCode("load_main_items_page", "toggle_main_items", loadMainItemsPage)

@@ -1,0 +1,79 @@
+{
+    "items_lower": {
+        "type": "group",
+        "header": "Mind Crystals",
+        "content": {
+            "type": "array",
+            "orientation": "horizontal",
+            "content": [
+                {
+                    "type": "itemgrid",
+                    "item_size": 40,
+                    "item_margin": "4,4",
+                    "margin": "5, 7, 13, 24",
+                    "rows": [
+                        [
+                            "mind_crystal_bloodthirst",
+                            "mind_crystal_violent_impact",
+                            "mind_crystal_giant_slayer",
+                            "mind_crystal_trap_resistance",
+                            "mind_crystal_indestructible",
+                            "mind_crystal_strong_momentum",
+                            "mind_crystal_blind_rage",
+                            "mind_crystal_infiltration",
+                            "mind_crystal_exhilaration",
+                            "mind_crystal_not_dead_yet",
+                            "mind_crystal_concussive_strikes",
+                            "mind_crystal_defensive_combo",
+                            "mind_crystal_perserverance",
+                            "mind_crystal_the_more_the_merrier"
+                        ],
+                        [
+                            "mind_crystal_emotional_value",
+                            "mind_crystal_respite",
+                            "mind_crystal_discount",
+                            "mind_crystal_domination",
+                            "mind_crystal_straightforward",
+                            "mind_crystal_take_initiative",
+                            "mind_crystal_compliment_of_death",
+                            "mind_crystal_plenty_of_chances",
+                            "mind_crystal_blooming_vigor",
+                            "mind_crystal_expanded_foundation",
+                            "mind_crystal_chance_boost_light",
+                            "mind_crystal_chance_boost_ice",
+                            "mind_crystal_chance_boost_fire",
+                            "mind_crystal_chance_boost_lightning"
+                        ],
+                        [
+                            "mind_crystal_chance_boost_dark",
+                            "mind_crystal_chance_boost_poison",
+                            "mind_crystal_chance_boost_blade",
+                            "mind_crystal_curse_to_boon",
+                            "mind_crystal_mixture_replenishment",
+                            "mind_crystal_mixture_enhancement",
+                            "mind_crystal_vengeful_wrath",
+                            "mind_crystal_starting_well-off",
+                            "mind_crystal_solo_performance",
+                            "mind_crystal_perennial",
+                            "mind_crystal_terminal_predator",
+                            "mind_crystal_recycling_expert",
+                            "mind_crystal_legacy_protocol",
+                            "mind_crystal_flow_state"
+                        ]
+                    ]
+                },
+                {
+                    "type": "itemgrid",
+                    "item_size": 40,
+                    "margin": "155, 6, -11, 0",
+                    "item_margin": "0",
+                    "rows": [
+                        [
+                            "toggle_main_items"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}
